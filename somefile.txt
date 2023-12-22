@@ -1,0 +1,14 @@
+Created on Tue Nov 14 19:04:38 2023 python
+@author: 33398
+# -*- pythoncoding: utf-8 -*-
+Created on Tue Nov 14 19:04:38 2023
+@author: 33398
+# -*- coding: utf-8 -*-
+Created on Tue Nov 14 19:04:38 2023
+python
+@author: 33398
+# -*- coding: utf-8 -*-
+Created on Tue Nopythonv 14 19:04:38 2023
+@author: 33398
+# -*- copythonding: utf-8 -*-
+Created on Tue Nov 14 19:04:38 2023
