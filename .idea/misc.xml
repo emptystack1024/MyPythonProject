@@ -4,5 +4,9 @@
     <option name="pathToExecutable" value="C:\Software\Anaconda\Scripts\black.exe" />
     <option name="sdkName" value="Python 3.11" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="yolo" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (pythonProject)" project-jdk-type="Python SDK" />
+>>>>>>> 71c644bf (test)
 </project>

@@ -1,0 +1,4 @@
+*.CSV filter=lfs diff=lfs merge=lfs -text
+黑马程序员/机器学xiday1资料/02-代码/instacart/orders.csv filter=lfs diff=lfs merge=lfs -text
+黑马程序员/机器学xiday2资料/02-代码/FBlocation/test.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
