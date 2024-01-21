@@ -1,5 +1,5 @@
 % 读取图像
-RGB = imread('C:\code\pythonProject\pythonProject\大创\result.png');
+% RGB = imread('C:\code\pythonProject\pythonProject\大创\result.png');
 
 % 调用 createMask 函数获取二值掩码 BW 和涂为红色的图像 maskedRGBImage
 [BW, maskedRGBImage] = createMask(RGB);
