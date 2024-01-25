@@ -5,17 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/2_特征缩放.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/3_特征工程和多项式回归.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/data/houses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/deeplearning.mplstyle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/lab_utils_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/lab_utils_multi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/代码测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/代码测试.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/吴恩达机器学习/1_多元线性回归.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -37,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Anaconda3/Library/bin/conda.bat",
+    "last_opened_file_path": "C:/code/pythonProject/pythonProject/吴恩达机器学习",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,9 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\吴恩达机器学习" />
       <recent name="C:\code\pythonProject\pythonProject\黑马程序员" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\吴恩达机器学习" />
       <recent name="C:\code\pythonProject\pythonProject\黑马程序员" />
     </key>
   </component>
@@ -74,6 +91,7 @@
       <workItem from="1705797739065" duration="2548000" />
       <workItem from="1705981369851" duration="1125000" />
       <workItem from="1705982531203" duration="5269000" />
+      <workItem from="1706063081259" duration="8149000" />
     </task>
     <servers />
   </component>
