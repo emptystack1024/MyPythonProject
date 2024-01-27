@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/5_第 2 周实践实验：线性回归.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/data/ex1data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吴恩达机器学习/3_特征工程和多项式回归.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/吴恩达机器学习/3_特征工程和多项式回归.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/code/pythonProject/pythonProject/吴恩达机器学习&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/code/pythonProject/pythonProject/吴恩达机器学习/data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -57,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\吴恩达机器学习\data" />
       <recent name="C:\code\pythonProject\pythonProject\吴恩达机器学习" />
       <recent name="C:\code\pythonProject\pythonProject\黑马程序员" />
     </key>
@@ -87,7 +90,8 @@
       <workItem from="1705982531203" duration="5269000" />
       <workItem from="1706063081259" duration="8149000" />
       <workItem from="1706234426414" duration="457000" />
-      <workItem from="1706234907861" duration="4663000" />
+      <workItem from="1706234907861" duration="8689000" />
+      <workItem from="1706323078265" duration="436000" />
     </task>
     <servers />
   </component>
