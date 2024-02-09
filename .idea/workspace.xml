@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/吴恩达机器学习/6_可选实验室分类.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吴恩达机器学习/1_Supervised Machine Learning Regression and Classification/week3/1.Classification with logistic regression/C1_W3_Lab01_Classification_Soln.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/吴恩达机器学习/1_Supervised Machine Learning Regression and Classification/week3/1.Classification with logistic regression/C1_W3_Lab01_Classification_Soln.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吴恩达机器学习/5_第 2 周实践实验：线性回归.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/吴恩达机器学习/5_第 2 周实践实验：线性回归.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +93,8 @@
       <workItem from="1706323537512" duration="2689000" />
       <workItem from="1706408892224" duration="4194000" />
       <workItem from="1706421125383" duration="2941000" />
+      <workItem from="1706695909728" duration="1201000" />
+      <workItem from="1707287234423" duration="13000" />
     </task>
     <servers />
   </component>
