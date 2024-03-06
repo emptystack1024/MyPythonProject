@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="" />
+    <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hands-on-ML-master/第3章 k近邻算法/03 k近邻算法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-on-ML-master/第3章 k近邻算法/03 k近邻算法.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hands-on-ML-master/第3章 k近邻算法/gauss.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-on-ML-master/第3章 k近邻算法/gauss.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hands-on-ML-master/第4章 线性回归/04 线性回归.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-on-ML-master/第4章 线性回归/04 线性回归.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hands-on-ML-master/第4章 线性回归/USA_Housing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-on-ML-master/第4章 线性回归/USA_Housing.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +67,8 @@
       <recent name="C:\code\pythonProject\pythonProject\黑马程序员" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第4章 线性回归" />
+      <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第3章 k近邻算法" />
       <recent name="C:\code\pythonProject\pythonProject\吴恩达机器学习" />
       <recent name="C:\code\pythonProject\pythonProject\黑马程序员" />
     </key>
@@ -94,6 +103,8 @@
       <workItem from="1706695909728" duration="1201000" />
       <workItem from="1707287234423" duration="13000" />
       <workItem from="1708183547991" duration="58000" />
+      <workItem from="1709620616033" duration="2060000" />
+      <workItem from="1709687296611" duration="682000" />
     </task>
     <servers />
   </component>
