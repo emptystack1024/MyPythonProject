@@ -5,29 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/10_非线性支持向量机.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/11_多类别支持向量机.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/8_随机森林回归（Random Forest Regression）.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/9_支持向量机（SVM）.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1_2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1_answer-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_answer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/model_bias_2.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/model_weight_2.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/submit.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/weight.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/HW01.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/LCL_ML2021Spring_HW1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/covid.test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/covid.train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/hw1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/sampleSubmission.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV/Test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV/daibao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/1_线性回归（Linear Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/1_线性回归（Linear Regression）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/2_多项式回归（Polynomial Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/2_多项式回归（Polynomial Regression）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/3_岭回归（Ridge Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/3_岭回归（Ridge Regression）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/4_Lasso回归（Lasso Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/4_Lasso回归（Lasso Regression）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/5_弹性网络回归（Elastic Net Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/5_弹性网络回归（Elastic Net Regression）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/6_逻辑回归（Logistic Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/6_逻辑回归（Logistic Regression）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/7_决策树回归（Decision Tree Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/7_决策树回归（Decision Tree Regression）.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OpenCV学习/实验2/实验2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV学习/实验2/实验2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +78,8 @@
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归\2020作业1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\code\pythonProject\pythonProject\OpenCV学习" />
       <recent name="C:\code\pythonProject\pythonProject\100个超强机器学习算法模型" />
+      <recent name="C:\code\pythonProject\pythonProject\OpenCV学习" />
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归\2020作业1" />
       <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第4章 线性回归" />
       <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第3章 k近邻算法" />
@@ -139,7 +128,7 @@
       <workItem from="1710033970373" duration="265000" />
       <workItem from="1710034282096" duration="2399000" />
       <workItem from="1710036848919" duration="2785000" />
-      <workItem from="1710120541858" duration="2042000" />
+      <workItem from="1710120541858" duration="6273000" />
     </task>
     <servers />
   </component>
