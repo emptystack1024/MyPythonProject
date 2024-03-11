@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/10_非线性支持向量机.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/11_多类别支持向量机.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/8_随机森林回归（Random Forest Regression）.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/9_支持向量机（SVM）.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/12_核函数支持向量机.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/13_稀疏支持向量机.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/14_核贝叶斯支持向量机.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/1_线性回归（Linear Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/1_线性回归（Linear Regression）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/2_多项式回归（Polynomial Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/2_多项式回归（Polynomial Regression）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/3_岭回归（Ridge Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/3_岭回归（Ridge Regression）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/4_Lasso回归（Lasso Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/4_Lasso回归（Lasso Regression）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/5_弹性网络回归（Elastic Net Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/5_弹性网络回归（Elastic Net Regression）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/6_逻辑回归（Logistic Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/6_逻辑回归（Logistic Regression）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/7_决策树回归（Decision Tree Regression）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/7_决策树回归（Decision Tree Regression）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV学习/实验2/实验2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV学习/实验2/实验2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100个超强机器学习算法模型/11_多类别支持向量机.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/100个超强机器学习算法模型/11_多类别支持向量机.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,24 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/code/pythonProject/pythonProject/100个超强机器学习算法模型/data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/code/pythonProject/pythonProject/100个超强机器学习算法模型/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\code\pythonProject\pythonProject\100个超强机器学习算法模型\data" />
@@ -128,7 +121,8 @@
       <workItem from="1710033970373" duration="265000" />
       <workItem from="1710034282096" duration="2399000" />
       <workItem from="1710036848919" duration="2785000" />
-      <workItem from="1710120541858" duration="6273000" />
+      <workItem from="1710120541858" duration="10333000" />
+      <workItem from="1710157811936" duration="2633000" />
     </task>
     <servers />
   </component>
