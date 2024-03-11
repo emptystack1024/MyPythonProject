@@ -5,26 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1_2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_answer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/model_bias_2.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/model_weight_2.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/weight.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/HW01.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/LCL_ML2021Spring_HW1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/covid.test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/covid.train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/hw1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/sampleSubmission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图说深度学习-用可视化方法理解复杂概念/Bonus01-Scikit-Learn/DLBasics_Utilities.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/图说深度学习-用可视化方法理解复杂概念/Bonus01-Scikit-Learn/Bonus01-Scikit-Learn-1-Estimators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/图说深度学习-用可视化方法理解复杂概念/Bonus01-Scikit-Learn/Bonus01-Scikit-Learn-1-Estimators.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/图说深度学习-用可视化方法理解复杂概念/Bonus01-Scikit-Learn/Bonus01-Scikit-Learn-2-Clusters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/图说深度学习-用可视化方法理解复杂概念/Bonus01-Scikit-Learn/Bonus01-Scikit-Learn-2-Clusters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1_2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/.ipynb_checkpoints/hw1_answer-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/hw1_answer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/model_bias_2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/model_weight_2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/submit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1/weight.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/HW01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/LCL_ML2021Spring_HW1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/covid.test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/covid.train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/hw1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2021作业1/sampleSubmission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV/Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV/daibao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV学习/实验2/实验2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV学习/实验2/实验2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,30 +70,30 @@
     "WebServerToolWindowFactoryState": "false",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/code/pythonProject/pythonProject/AIStudio学习/2逻辑回归/2021作业1",
+    "last_opened_file_path": "C:/code/pythonProject/pythonProject/100个超强机器学习算法模型/data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\100个超强机器学习算法模型\data" />
+      <recent name="C:\code\pythonProject\pythonProject\AIStudio学习" />
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归\2021作业1" />
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归" />
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归\2020作业1" />
-      <recent name="C:\code\pythonProject\pythonProject\图说深度学习-用可视化方法理解复杂概念\Bonus01-Scikit-Learn" />
-      <recent name="C:\code\pythonProject\pythonProject\图说深度学习-用可视化方法理解复杂概念" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\OpenCV学习" />
+      <recent name="C:\code\pythonProject\pythonProject\100个超强机器学习算法模型" />
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归\2020作业1" />
       <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第4章 线性回归" />
       <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第3章 k近邻算法" />
-      <recent name="C:\code\pythonProject\pythonProject\吴恩达机器学习" />
-      <recent name="C:\code\pythonProject\pythonProject\黑马程序员" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -128,6 +132,14 @@
       <workItem from="1709867378998" duration="7516000" />
       <workItem from="1709879164730" duration="11392000" />
       <workItem from="1709913052697" duration="1360000" />
+      <workItem from="1709948875247" duration="1244000" />
+      <workItem from="1709954019658" duration="2123000" />
+      <workItem from="1709956283477" duration="578000" />
+      <workItem from="1709962183442" duration="1760000" />
+      <workItem from="1710033970373" duration="265000" />
+      <workItem from="1710034282096" duration="2399000" />
+      <workItem from="1710036848919" duration="2785000" />
+      <workItem from="1710120541858" duration="2042000" />
     </task>
     <servers />
   </component>
