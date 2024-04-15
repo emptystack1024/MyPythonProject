@@ -16,6 +16,7 @@ from distutils.version import LooseVersion
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.linear_model import SGDClassifier
+from pylab import mpl
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
 from sklearn.ensemble import RandomForestClassifier
@@ -314,7 +315,7 @@ class LogisticRegressionGD:
     b_ : Scalar
       Bias unit after fitting.
     losses_ : list
-      Log loss function values in each epoch.
+       Log loss function values in each epoch.
 
     """
     def __init__(self, eta=0.01, n_iter=50, random_state=1):
@@ -349,7 +350,7 @@ class LogisticRegressionGD:
             errors = (y - output)
             self.w_ += self.eta * X.T.dot(errors) / X.shape[0]
             self.b_ += self.eta * errors.mean()
-            loss = -y.dot(np.log(output)) - ((1 - y).dot(np.log(1 - output))) / X.shape[0]
+            loss = (-y.dot(np.log(output)) - (1 - y).dot(np.log(1 - output))) / X.shape[0]
             self.losses_.append(loss)
         return self
 
@@ -624,17 +625,20 @@ plt.show()
 
 
 
+mpl.rcParams['font.sans-serif'] = ['Microsoft YaHei'] # 指定默认字体：解决plot不能显示中文问题
+mpl.rcParams['axes.unicode_minus'] = False # 解决保存图像是负号'-'显示为方块的问题
 
 
-def gini(p):
+
+
+
+def gini(p): # 基尼杂质
     return p * (1 - p) + (1 - p) * (1 - (1 - p))
 
-
-def entropy(p):
+def entropy(p): # 熵
     return - p * np.log2(p) - (1 - p) * np.log2((1 - p))
 
-
-def error(p):
+def error(p): # 分类误差
     return 1 - np.max([p, 1 - p])
 
 x = np.arange(0.0, 1.0, 0.01)
@@ -646,8 +650,7 @@ err = [error(i) for i in x]
 fig = plt.figure()
 ax = plt.subplot(111)
 for i, lab, ls, c, in zip([ent, sc_ent, gini(x), err], 
-                          ['Entropy', 'Entropy (scaled)', 
-                           'Gini impurity', 'Misclassification error'],
+                          ['熵', '缩放熵', '基尼杂志', '分类误差'],
                           ['-', '-', '--', '-.'],
                           ['black', 'lightgray', 'red', 'green', 'cyan']):
     line = ax.plot(x, i, label=lab, linestyle=ls, lw=2, color=c)
@@ -660,7 +663,7 @@ ax.axhline(y=1.0, linewidth=1, color='k', linestyle='--')
 plt.ylim([0, 1.1])
 plt.xlabel('p(i=1)')
 plt.ylabel('Impurity index')
-#plt.savefig('figures/03_19.png', dpi=300, bbox_inches='tight')
+
 plt.show()
 
 
@@ -671,7 +674,7 @@ plt.show()
 
 
 tree_model = DecisionTreeClassifier(criterion='gini', 
-                                    max_depth=4, 
+                                    max_depth=3, 
                                     random_state=1)
 tree_model.fit(X_train, y_train)
 
@@ -685,20 +688,19 @@ plt.xlabel('Petal length [cm]')
 plt.ylabel('Petal width [cm]')
 plt.legend(loc='upper left')
 plt.tight_layout()
-#plt.savefig('figures/03_20.png', dpi=300)
+
 plt.show()
 
 
 
 
 
-feature_names = ['Sepal length', 'Sepal width',
-                 'Petal length', 'Petal width']
+feature_names = ['萼片宽度', '萼片宽度',
+                 '花瓣长度', '花瓣长度']
 tree.plot_tree(tree_model,
                feature_names=feature_names,
                filled=True)
 
-#plt.savefig('figures/03_21_1.pdf')
 plt.show()
 
 
@@ -721,7 +723,21 @@ plt.xlabel('Petal length [cm]')
 plt.ylabel('Petal width [cm]')
 plt.legend(loc='upper left')
 plt.tight_layout()
-#plt.savefig('figures/03_2.png', dpi=300)
+
+plt.show()
+
+
+
+
+
+feature_names = ['sepal length', 'sepal width',
+                 'petal length', 'petal width']
+for i, tree_in_forest in enumerate(forest.estimators_):
+    tree.plot_tree(tree_in_forest,
+                   feature_names=feature_names,
+                   filled=True)
+    
+
 plt.show()
 
 

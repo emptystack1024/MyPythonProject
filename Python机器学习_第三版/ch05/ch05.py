@@ -10,6 +10,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from matplotlib.colors import ListedColormap
+# from sklearn.linear_model import LogisticRegression
+# from sklearn.decomposition import PCA
 from sklearn.linear_model import LogisticRegression
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 from sklearn.datasets import load_digits
@@ -18,6 +20,11 @@ import matplotlib.patheffects as PathEffects
 
 # # Machine Learning with PyTorch and Scikit-Learn  
 # # -- Code Examples
+
+
+
+
+
 
 # ## Package version checks
 
@@ -48,7 +55,7 @@ check_packages(d)
 
 # ### Overview
 
-# - [Unsupervised dimensionality reduction via principal component analysis 128](#Unsupervised-dimensionality-reduction-via-principal-component-analysis-128)
+# - [Unsupervised dimensionality reduction via principal component analysis](#Unsupervised-dimensionality-reduction-via-principal-component-analysis)
 #   - [The main steps behind principal component analysis](#The-main-steps-behind-principal-component-analysis)
 #   - [Extracting the principal components step-by-step](#Extracting-the-principal-components-step-by-step)
 #   - [Total and explained variance](#Total-and-explained-variance)
@@ -88,12 +95,6 @@ df_wine = pd.read_csv('https://archive.ics.uci.edu/ml/'
                       'machine-learning-databases/wine/wine.data',
                       header=None)
 
-# if the Wine dataset is temporarily unavailable from the
-# UCI machine learning repository, un-comment the following line
-# of code to load the dataset from a local path:
-
-# df_wine = pd.read_csv('wine.data', header=None)
-
 df_wine.columns = ['Class label', 'Alcohol', 'Malic acid', 'Ash',
                    'Alcalinity of ash', 'Magnesium', 'Total phenols',
                    'Flavanoids', 'Nonflavanoid phenols', 'Proanthocyanins',
@@ -111,7 +112,8 @@ df_wine.head()
 
 X, y = df_wine.iloc[:, 1:].values, df_wine.iloc[:, 0].values
 
-X_train, X_test, y_train, y_test =     train_test_split(X, y, test_size=0.3, 
+X_train, X_test, y_train, y_test = \
+    train_test_split(X, y, test_size=0.3, 
                      stratify=y,
                      random_state=0)
 
@@ -130,9 +132,9 @@ X_test_std = sc.transform(X_test)
 # 
 # **Note**
 # 
-# Accidentally, I wrote `X_test_std = sc.fit_transform(X_test)` instead of `X_test_std = sc.transform(X_test)`. In this case, it wouldn't make a big difference since the mean and standard deviation of the test set should be (quite) similar to the training set. However, as remember from Chapter 3, the correct way is to re-use parameters from the training set if we are doing any kind of transformation -- the test set should basically stand for "new, unseen" data.
+# Accidentally, I wrote `X_test_std = sc.fit_transform(X_test)` instead of `X_test_std = sc.transform(X_test)`. In this case, it wouldn't make a big difference since the mean and standard deviation of the test set should be (quite) similar to the training set. However, as you remember from Chapter 3, the correct way is to re-use parameters from the training set if we are doing any kind of transformation -- the test set should basically stand for "new, unseen" data.
 # 
-# My initial typo reflects a common mistake is that some people are *not* re-using these parameters from the model training/building and standardize the new data "from scratch." Here's simple example to explain why this is a problem.
+# My initial typo reflects a common mistake which is that some people are *not* re-using these parameters from the model training/building and standardize the new data "from scratch." Here is a simple example to explain why this is a problem.
 # 
 # Let's assume we have a simple training set consisting of 3 examples with 1 feature (let's call this feature "length"):
 # 
@@ -154,21 +156,56 @@ X_test_std = sc.transform(X_test)
 # - new_5: 6 cm -> class ?
 # - new_6: 7 cm -> class ?
 # 
-# If we look at the "unstandardized "length" values in our training datast, it is intuitive to say that all of these examples are likely belonging to class_2. However, if we standardize these by re-computing standard deviation and and mean you would get similar values as before in the training set and your classifier would (probably incorrectly) classify examples 4 and 5 as class 2.
+# If we look at the "unstandardized "length" values in our training datast, it is intuitive to say that all of these examples are likely belonging to class_2. However, if we standardize these by re-computing standard deviation and mean you would get similar values as before in the training set and your classifier would (probably incorrectly) classify examples 4 and 5 as class_2.
 # 
-# - new_std_4: -1.21 -> class 2
-# - new_std_5: 0 -> class 2
-# - new_std_6: 1.21 -> class 1
+# - new_std_4: -1.21 -> class_2
+# - new_std_5: 0 -> class_2
+# - new_std_6: 1.21 -> class_1
 # 
 # However, if we use the parameters from your "training set standardization," we'd get the values:
 # 
-# - example5: -18.37 -> class 2
-# - example6: -17.15 -> class 2
-# - example7: -15.92 -> class 2
+# - example5: -18.37 -> class_2
+# - example6: -17.15 -> class_2
+# - example7: -15.92 -> class_2
 # 
 # The values 5 cm, 6 cm, and 7 cm are much lower than anything we have seen in the training set previously. Thus, it only makes sense that the standardized features of the "new examples" are much lower than every standardized feature in the training set.
 # 
 # ---
+# 
+# 注释
+# 我不小心把X_test_std = sc.fit_transform(X_test)写成了X_test_std = sc.transform(X_test)。在这种情况下，由于测试集的平均值和标准偏差应该与训练集（相当）相似，因此不会有太大差别。不过，正如第 3 章所述，如果我们要进行任何形式的转换，正确的方法是重新使用训练集的参数--测试集基本上应该代表 "新的、未见过的 "数据。
+# 我最初的错字反映了一个常见的错误，即有些人没有重新使用模型训练/构建中的这些参数，而是 "从头开始 "对新数据进行标准化。这里有一个简单的例子来解释为什么会出现这样的问题。
+# 假设我们有一个简单的训练集，由 3 个例子组成，每个例子都有一个特征（我们称这个特征为 "长度"）：
+# - train_1: 10 厘米 -> class_2
+# - train_2: 20 cm -> class_2
+# - train_3: 30 cm -> class_1
+# 
+# 平均值： 20, std.
+# 标准化后，转换后的特征值为
+# 
+# - train_std_1: -1.21 -> class_2
+# - train_std_2: 0 -> class_2
+# - train_std_3: 1.21 -> class_1
+# 
+# 接下来，假设我们的模型已经学会将标准化长度值小于 0.6 的示例分类为 class_2（否则为 class_1）。到目前为止一切顺利。现在，假设我们有 3 个未标记的数据点需要分类，它们是
+# 
+# - new_4: 5 cm -> class ?
+# - new_5: 6 cm -> class ?
+# - new_6: 7 cm -> class ?
+# 
+# 如果我们查看训练数据中的 "未标准化长度 "值，直观地说，所有这些示例都可能属于第 2 类。但是，如果我们通过重新计算标准偏差和平均值将其标准化，就会得到与训练集中之前类似的值，分类器就会（可能错误地）将示例 4 和示例 5 划归为 class_2。
+# 
+# - new_std_4: -1.21 -> class_2
+# - new_std_5: 0 -> class_2
+# - new_std_6: 1.21 -> class_1
+# 
+# 但是，如果我们使用您的 "训练集标准化 "参数，就会得到以下值：
+# 
+# - example5: -18.37 -> class_2
+# - 示例 6: -17.15 -> class_2
+# - 示例 7: -15.92 -> class_2
+# 
+# 5 厘米、6 厘米和 7 厘米的值比我们之前在训练集中看到的任何值都要低得多。因此，"新示例 "的标准化特征比训练集中的所有标准化特征都低得多才是合理的。
 
 # Eigendecomposition of the covariance matrix.
 
@@ -186,6 +223,15 @@ print('\nEigenvalues \n', eigen_vals)
 #     <pre>>>> eigen_vals, eigen_vecs = np.linalg.eig(cov_mat)</pre>
 #     This is not really a "mistake," but probably suboptimal. It would be better to use [`numpy.linalg.eigh`](http://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.eigh.html) in such cases, which has been designed for [Hermetian matrices](https://en.wikipedia.org/wiki/Hermitian_matrix). The latter always returns real  eigenvalues; whereas the numerically less stable `np.linalg.eig` can decompose nonsymmetric square matrices, you may find that it returns complex eigenvalues in certain cases. (S.R.)
 # 
+# ---
+# 
+# **注**： 
+# 
+# 在上面，我使用 [`numpy.linalg.eig`](http://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.eig.html) 函数将对称协方差矩阵分解为特征值和特征向量。
+#     <pre>>>> eigen_vals, eigen_vecs = np.linalg.eig(cov_mat)</pre>
+#     这不是一个真正的 "错误"，但可能是次优的。在这种情况下，最好使用 [`numpy.linalg.eigh`](http://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.eigh.html)，它是专为 [Hermetian matrices](https://en.wikipedia.org/wiki/Hermitian_matrix) 设计的。后者总是返回实特征值；而数值稳定性较差的 `np.linalg.eig` 可以分解非对称正方形矩阵，但你可能会发现它在某些情况下返回复特征值。(S.R.)
+# 
+# 通过www.DeepL.com/Translator（免费版）翻译
 
 
 # ## Total and explained variance
@@ -209,7 +255,7 @@ plt.ylabel('Explained variance ratio')
 plt.xlabel('Principal component index')
 plt.legend(loc='best')
 plt.tight_layout()
-# plt.savefig('figures/05_02.png', dpi=300)
+
 plt.show()
 
 
@@ -273,7 +319,7 @@ plt.show()
 
 # **NOTE**
 # 
-# The following four code cells has been added in addition to the content to the book, to illustrate how to replicate the results from our own PCA implementation in scikit-learn:
+# The following four code cells have been added in addition to the content to the book, to illustrate how to replicate the results from our own PCA implementation in scikit-learn:
 
 
 
@@ -281,6 +327,59 @@ plt.show()
 pca = PCA()
 X_train_pca = pca.fit_transform(X_train_std)
 pca.explained_variance_ratio_
+
+
+
+
+
+
+def plot_decision_regions(X, y, classifier, resolution=0.02):
+
+    # setup marker generator and color map
+    markers = ('o', 's', '^', 'v', '<')
+    colors = ('red', 'blue', 'lightgreen', 'gray', 'cyan')
+    cmap = ListedColormap(colors[:len(np.unique(y))])
+
+    # plot the decision surface
+    x1_min, x1_max = X[:, 0].min() - 1, X[:, 0].max() + 1
+    x2_min, x2_max = X[:, 1].min() - 1, X[:, 1].max() + 1
+    xx1, xx2 = np.meshgrid(np.arange(x1_min, x1_max, resolution),
+                           np.arange(x2_min, x2_max, resolution))
+    lab = classifier.predict(np.array([xx1.ravel(), xx2.ravel()]).T)
+    lab = lab.reshape(xx1.shape)
+    plt.contourf(xx1, xx2, lab, alpha=0.3, cmap=cmap)
+    plt.xlim(xx1.min(), xx1.max())
+    plt.ylim(xx2.min(), xx2.max())
+
+    # plot class examples
+    for idx, cl in enumerate(np.unique(y)):
+        plt.scatter(x=X[y == cl, 0],
+                    y=X[y == cl, 1],
+                    alpha=0.8,
+                    c=colors[idx],
+                    marker=markers[idx],
+                    label=f'Class {cl}',
+                    edgecolor='black')
+
+
+
+
+# 
+# pca = PCA(n_components=2)
+# lr = LogisticRegression(multi_class='ovr',
+#                         random_state=1,
+#                         solver='lbfgs')
+# 
+# X_train_pca = pca.fit_transform(X_train_std)
+# X_test_pca = pca.transform(X_test_std)
+# 
+# lr = lr.fit(X_train_pca, y_train)
+# plot_decision_regions(X_train_pca, y_train, classifier=lr)
+# plt.xlabel('PC 1')
+# plt.ylabel('PC 2')
+# plt.legend(loc='lower left')
+# plt.tight_layout()
+# plt.show()
 
 
 

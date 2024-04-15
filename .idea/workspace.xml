@@ -5,386 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/.hidden" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/C2_W1_Lab01_Neurons_and_Layers.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/C2_W1_Lab02_CoffeeRoasting_TF.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/deeplearning.mplstyle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/lab_coffee_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/lab_neurons_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/吴恩达深度学习/lab_utils_common.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/.convert_notebook_to_script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/.other/cover_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/9781789955750_ColorImages.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ERRATA/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ERRATA/old-errata/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ERRATA/old-errata/images/242.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ERRATA/old-errata/images/366.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ERRATA/old-errata/images/38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/Temp.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/.convert_notebook_to_script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/ch01.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/figures/01_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch01/python_environment_check.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/ch02.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/ch02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_15_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/figures/02_15_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/iris.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch02/iris.names.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch03/ch03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch03/ch03.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch03/ch03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch03/ch03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/ch04.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/ch04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/figures/04_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/wine.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/wine.names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_05_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_05_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/wine.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/wine.names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/ch06.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/ch06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/figures/06_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/wdbc.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/wdbc.names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/figures/07_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/wine.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/wine.names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch08/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch08/ch08.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch08/ch08.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch08/figures/08_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch08/logistic-regression-bag-of-words/log-reg-iterative.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch08/logistic-regression-bag-of-words/log-reg.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch08/movie_data.csv.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/AmesHousing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/DataDocumentation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/ch09.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/ch09.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_01_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch09/figures/09_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/ch10.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/ch10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch10/figures/10_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/ch11.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/ch11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/figures/11_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch11/neuralnet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/cat_dog_images/cat-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/cat_dog_images/cat-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/cat_dog_images/cat-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/cat_dog_images/dog-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/cat_dog_images/dog-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/cat_dog_images/dog-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/ch12_part1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/ch12_part1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/ch12_part2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/ch12_part2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_03.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_04.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_05.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_06.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_07.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_08.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_09.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_10.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/12_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/celeba-files.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/gdrive-download-location-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/gdrive-download-location-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch12/figures/gdrive-download-location-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part3_lightning.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part3_lightning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part4_ignite.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/ch13_part4_ignite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/13_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/figures/ignite-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_0/checkpoints/epoch=17-step=15479.ckpt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_0/events.out.tfevents.1643132087.Sebastian-Air.local.8211.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_0/events.out.tfevents.1643132134.Sebastian-Air.local.8211.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_0/hparams.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_1/events.out.tfevents.1643132137.Sebastian-Air.local.8211.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_1/events.out.tfevents.1643132232.Sebastian-Air.local.8211.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_1/events.out.tfevents.1643132233.Sebastian-Air.local.8211.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch13/lightning_logs/version_1/hparams.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/ch14_part1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/ch14_part1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/ch14_part2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/ch14_part2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/example-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch14/figures/14_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/1268-0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/ch15_part1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/ch15_part1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/ch15_part2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/ch15_part2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/ch15_part3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/ch15_part3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch15/figures/15_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/bonus-distilbert-lightning-trainer/distilbert_finetuning-full.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/ch16-part1-self-attention.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/ch16-part1-self-attention.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/ch16-part2-gpt2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/ch16-part2-gpt2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/ch16-part3-bert.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/ch16-part3-bert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch16/figures/16_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/ch17_part1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/ch17_part1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/ch17_part2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/ch17_part2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch17/figures/17_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/ch18_part1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/ch18_part1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/ch18_part2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/ch18_part2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch18/figures/18_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/cartpole/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/ch19.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/figures/19_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/gridworld/agent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/gridworld/gridworld_env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch19/gridworld/qlearning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/environment.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/python_environment_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/supplementary/running-on-colab.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/update_python_from_notebook.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/ch04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch04/ch04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch04/ch04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch04/ch04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_05_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_05_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_05_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_05_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_08.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch05/figures/05_08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码测试2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/代码测试2_卷积神经网络测试.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码测试3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/代码测试3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -446,11 +86,11 @@
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归\2020作业1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\吴恩达深度学习" />
+      <recent name="C:\code\pythonProject\pythonProject" />
       <recent name="C:\code\pythonProject\pythonProject\100个超强机器学习算法模型" />
       <recent name="C:\code\pythonProject\pythonProject\OpenCV学习" />
       <recent name="C:\code\pythonProject\pythonProject\AIStudio学习\2逻辑回归\2020作业1" />
-      <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第4章 线性回归" />
-      <recent name="C:\code\pythonProject\pythonProject\Hands-on-ML-master\第3章 k近邻算法" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -508,6 +148,12 @@
       <workItem from="1711869210019" duration="390000" />
       <workItem from="1711942391149" duration="553000" />
       <workItem from="1712215491321" duration="2073000" />
+      <workItem from="1712219098249" duration="139000" />
+      <workItem from="1712219307078" duration="9609000" />
+      <workItem from="1712305761036" duration="2107000" />
+      <workItem from="1712370408848" duration="16621000" />
+      <workItem from="1713065684934" duration="2237000" />
+      <workItem from="1713146170539" duration="4020000" />
     </task>
     <servers />
   </component>
@@ -527,6 +173,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/code/pythonProject/pythonProject/Python机器学习_第三版/ch04/ch04.ipynb</url>
+          <line>208</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test 覆盖结果" MODIFIED="1709892541394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1" />

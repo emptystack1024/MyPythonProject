@@ -86,13 +86,11 @@ check_packages(d)
 
 
 
-csv_data = '''A,B,C,D
+csv_data = \
+'''A,B,C,D
 1.0,2.0,3.0,4.0
 5.0,6.0,,8.0
 10.0,11.0,12.0,'''
-
-# If you are using Python 2.7, you need
-# to convert the string to unicode:
 
 if (sys.version_info < (3, 0)):
     csv_data = unicode(csv_data)
@@ -350,7 +348,7 @@ df
 
 
 
-# # Partitioning a dataset into a seperate training and test set
+# # Partitioning a dataset into a separate training and test set
 
 
 
@@ -380,7 +378,8 @@ df_wine.head()
 
 X, y = df_wine.iloc[:, 1:].values, df_wine.iloc[:, 0].values
 
-X_train, X_test, y_train, y_test =    train_test_split(X, y, 
+X_train, X_test, y_train, y_test =\
+    train_test_split(X, y, 
                      test_size=0.3, 
                      random_state=0, 
                      stratify=y)
@@ -545,7 +544,8 @@ class SBS:
 
     def fit(self, X, y):
         
-        X_train, X_test, y_train, y_test =             train_test_split(X, y, test_size=self.test_size,
+        X_train, X_test, y_train, y_test = \
+            train_test_split(X, y, test_size=self.test_size,
                              random_state=self.random_state)
 
         dim = X_train.shape[1]
