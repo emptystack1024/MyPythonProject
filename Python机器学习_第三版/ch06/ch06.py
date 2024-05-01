@@ -19,6 +19,7 @@ from sklearn.model_selection import validation_curve
 from sklearn.model_selection import GridSearchCV
 from sklearn.svm import SVC
 from sklearn.model_selection import RandomizedSearchCV
+import scipy.stats
 from sklearn.experimental import enable_halving_search_cv
 from sklearn.model_selection import HalvingRandomSearchCV
 from sklearn.tree import DecisionTreeClassifier
@@ -103,12 +104,6 @@ df = pd.read_csv('https://archive.ics.uci.edu/ml/'
                  'machine-learning-databases'
                  '/breast-cancer-wisconsin/wdbc.data', header=None)
 
-# if the Breast Cancer dataset is temporarily unavailable from the
-# UCI machine learning repository, un-comment the following line
-# of code to load the dataset from a local path:
-
-# df = pd.read_csv('wdbc.data', header=None)
-
 df.head()
 
 
@@ -136,7 +131,8 @@ le.transform(['M', 'B'])
 
 
 
-X_train, X_test, y_train, y_test =     train_test_split(X, y, 
+X_train, X_test, y_train, y_test = \
+    train_test_split(X, y, 
                      test_size=0.20,
                      stratify=y,
                      random_state=1)
@@ -182,7 +178,6 @@ print(f'Test accuracy: {test_acc:.3f}')
 
 
 
-    
 
 kfold = StratifiedKFold(n_splits=10).split(X_train, y_train)
 
@@ -198,7 +193,7 @@ for k, (train, test) in enumerate(kfold):
     
 mean_acc = np.mean(scores)
 std_acc = np.std(scores)
-print(f'\nCV accuracy: {mean_acc:.3f} +/- {std_acc:.3f}')
+print(f'CV accuracy: {mean_acc:.3f} +/- {std_acc:.3f}')
 
 
 
@@ -231,7 +226,8 @@ print(f'CV accuracy: {np.mean(scores):.3f} '
 pipe_lr = make_pipeline(StandardScaler(),
                         LogisticRegression(penalty='l2', max_iter=10000))
 
-train_sizes, train_scores, test_scores =                learning_curve(estimator=pipe_lr,
+train_sizes, train_scores, test_scores =\
+                learning_curve(estimator=pipe_lr,
                                X=X_train,
                                y=y_train,
                                train_sizes=np.linspace(0.1, 1.0, 10),
@@ -268,7 +264,6 @@ plt.ylabel('Accuracy')
 plt.legend(loc='lower right')
 plt.ylim([0.8, 1.03])
 plt.tight_layout()
-# plt.savefig('figures/06_05.png', dpi=300)
 plt.show()
 
 
@@ -318,7 +313,6 @@ plt.xlabel('Parameter C')
 plt.ylabel('Accuracy')
 plt.ylim([0.8, 1.0])
 plt.tight_layout()
-# plt.savefig('figures/06_06.png', dpi=300)
 plt.show()
 
 
@@ -359,6 +353,7 @@ clf = gs.best_estimator_
 # clf.fit(X_train, y_train) 
 # note that we do not need to refit the classifier
 # because this is done automatically via refit=True.
+# 请注意，我们不需要重新设置分类器，因为它会通过 refit=True 自动完成。
 
 print(f'Test accuracy: {clf.score(X_test, y_test):.3f}')
 
@@ -375,7 +370,7 @@ param_grid = [{'svc__C': param_range,
                'svc__kernel': ['linear']},
               {'svc__C': param_range,
                'svc__gamma': param_range,
-               'svc__kernel': ['rbg']}]
+               'svc__kernel': ['rbf']}]
 
 
 rs = RandomizedSearchCV(estimator=pipe_svc,
@@ -400,6 +395,8 @@ print(rs.best_params_)
 
 
 # ## Exploring hyperparameter configurations more widely with randomized search
+
+
 
 
 
