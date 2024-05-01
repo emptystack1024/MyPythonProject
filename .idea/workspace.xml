@@ -4,155 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/.github/ISSUE_TEMPLATE/bug_report.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/.github/ISSUE_TEMPLATE/feature-request.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/README_en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/asset/glm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/asset/plan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/.ipynb_checkpoints/glm_embedding_pysdk-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/.ipynb_checkpoints/glm_function_call-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/.ipynb_checkpoints/glm_pysdk-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/.ipynb_checkpoints/glm_retrieval-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/.ipynb_checkpoints/glm_token_count-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/chatglm3-6b/tokenization_chatglm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/chatglm3-6b/tokenizer.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/chatglm3-6b/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_embedding_pysdk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_embedding_pysdk.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_function_call.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_function_call.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_http_request.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_http_request.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_langchain.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_langchain.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_openai_sdk.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_pysdk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_pysdk.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_retrieval.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_retrieval.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_token_count.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/basic/glm_token_count.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/agent/glm_multi_role_division.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/agent/glm_taskweaver.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/data/resume.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/data/sample.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/data/urban-rural-population.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/generate_agent_dataset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/generate_agent_dataset/eval_questions_10q.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/generate_agent_dataset/finetuning_events_10q.jsonl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/generate_agent_dataset/react_agent_finetune.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/generate_agent_dataset/train_questions_10q.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/glm_csv_data_analysis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/glm_csv_data_analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/glm_infomation_extraction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/coplay_analysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/00-判断情感表征是否符合.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/01-情感驱动的表征.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/02-情景信息NER抽取.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/03- 故事情境生成.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/03-故事场景生成.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/04-情感情景引导.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/05-剧情总结.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/05-性格分析.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/behavior_analysis/06-情景扮演.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/01_宝今天煮饺子把皮煮开了原来是喜欢你露馅儿了_阿七.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/02_尊嘟假嘟呀_今天要吃三碗饭.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/03_报备式恋爱请查收_澈洌.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/04_心里闷闷的可能就是有点想你_辰夕.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/05_报告今天是香香的姐姐_阿七.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/06_今日的温柔报告_兔兔没有牙.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/06_今日的温柔报告_兔兔没有牙.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/07_报告今天发工资啦啦啦啦_阿七.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/coplay_analysis/08_78块的冰淇淋掉地上了呜呜呜呜_阿七.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/iRMa9DMW_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/id46Bv3g_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/ieA2E1F7_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/ieAeWyXU_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/ieAjabk1_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/ieAjskDr_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/ieAkpNXB_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/csv/ieDRHjmD_keyframe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/今天要吃三碗饭/storage_ieDRHjmD_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/今天要吃三碗饭/storage_ieDRHjmD_keyframe/index_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/今天要吃三碗饭/storage_ieDRHjmD_keyframe/template_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/兔兔没有牙/storage_ieAeWyXU_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/兔兔没有牙/storage_ieAeWyXU_keyframe/index_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/兔兔没有牙/storage_ieAeWyXU_keyframe/template_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/澈洌/storage_ieAkpNXB_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/澈洌/storage_ieAkpNXB_keyframe/index_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/澈洌/storage_ieAkpNXB_keyframe/template_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/辰夕/storage_ieAjskDr_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/辰夕/storage_ieAjskDr_keyframe/index_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/辰夕/storage_ieAjskDr_keyframe/template_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_iRMa9DMW_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_iRMa9DMW_keyframe/index_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_iRMa9DMW_keyframe/template_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_id46Bv3g_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_id46Bv3g_keyframe/index_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_id46Bv3g_keyframe/template_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_ieA2E1F7_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/interpretationo_dreams/docs/extract_storage/阿七/storage_ieAjabk1_keyframe/dreams_analysis_store.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/ppocr_glm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/requirements_ppocr_glm.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/finetune/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/finetune/glm_lora_finetune_pysdk.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/asset/build_outside_api/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/asset/build_outside_api/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/asset/build_outside_api/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/asset/build_outside_api/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/glms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/glms_custom_api_plugin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/prompts/数据黄金矿工智能体.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/glms/prompts/金沙江朱总.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/cogview_pysdk.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/data/movie.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/data/urban-vs-rural-majority/urban-vs-rural-majority.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/data/urban-vs-rural-majority/urban-vs-rural-majority.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/data/zR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/glm-v_chart_analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/glm-v_for_video_understanding.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/glm-v_pysdk.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/glm-cookbook/vision/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glm4api学习/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag学习/rag-from-scratch-main/.ipynb_checkpoints/rag_from_scratch_5_to_9-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transformer代码.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大创/数据拟合/data-cm.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大创/数据拟合/data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大创/数据拟合/deeplearning.mplstyle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大创/数据拟合/result.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch05/ch05.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/ch06.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch06/ch06.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch06/ch06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch06/ch06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吴恩达机器学习/1_Supervised Machine Learning Regression and Classification/week2/3.Gradient descent in practice/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/吴恩达机器学习/1_Supervised Machine Learning Regression and Classification/week2/3.Gradient descent in practice/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吴恩达机器学习/2_Advanced Learning Algorithms/week1/3.Neural network model/C2_W1_Lab01_Neurons_and_Layers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/吴恩达机器学习/2_Advanced Learning Algorithms/week1/3.Neural network model/C2_W1_Lab01_Neurons_and_Layers.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吴恩达机器学习/lab_utils_multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/吴恩达机器学习/lab_utils_multi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/qipao_tuxiang_chuli.png" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/qipao_tuxiang_chuli.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/qipao_tuxiang_chuli_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/qipao_tuxiang_chuli_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/result.png" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/result.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/test1.png" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/test1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/yuantu.png" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/yuantu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/大创.py" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/大创.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/气段.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/气段.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/气泡.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/气泡.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/气泡图像处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/气泡图像处理.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大创/气泡图像处理_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/大创/气泡气段问题/气泡图像处理_2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,25 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/code/pythonProject/pythonProject/glm4api学习/glm-cookbook/basic&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/code/pythonProject/pythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\code\pythonProject\pythonProject\glm4api学习\glm-cookbook\basic" />
@@ -301,6 +153,7 @@
       <workItem from="1714307607935" duration="2065000" />
       <workItem from="1714388899895" duration="2533000" />
       <workItem from="1714393114185" duration="5917000" />
+      <workItem from="1714533700415" duration="66000" />
     </task>
     <servers />
   </component>
