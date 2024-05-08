@@ -1,0 +1,730 @@
+./data/dataset\Tanzanite\tanzanite_39.jpg	22
+./data/dataset\Labradorite\labradorite_40.jpg	15
+./data/dataset\Hessonite\hessonite_23.jpg	11
+./data/dataset\Iolite\iolite_16.jpg	12
+./data/dataset\Benitoite\benitoite_24.jpg	2
+./data/dataset\Zircon\zircon_20.jpg	24
+./data/dataset\Labradorite\labradorite_16.jpg	15
+./data/dataset\Rhodochrosite\rhodochrosite_29.jpg	20
+./data/dataset\Jade\jade_27.jpg	13
+./data/dataset\Quartz Beer\quartz beer_16.jpg	19
+./data/dataset\Cats Eye\cats eye_20.jpg	5
+./data/dataset\Beryl Golden\beryl golden_8.jpg	3
+./data/dataset\Emerald\emerald_31.jpg	8
+./data/dataset\Beryl Golden\beryl golden_37.jpg	3
+./data/dataset\Benitoite\benitoite_6.jpg	2
+./data/dataset\Beryl Golden\beryl golden_7.jpg	3
+./data/dataset\Cats Eye\cats eye_15.jpg	5
+./data/dataset\Variscite\variscite_17.jpg	23
+./data/dataset\Diamond\diamond_13.jpg	7
+./data/dataset\Iolite\iolite_25.jpg	12
+./data/dataset\Onyx Black\onyx black_26.jpg	17
+./data/dataset\Danburite\danburite_33.jpg	6
+./data/dataset\Sapphire Blue\sapphire blue_33.jpg	21
+./data/dataset\Carnelian\carnelian_19.jpg	4
+./data/dataset\Labradorite\labradorite_26.jpg	15
+./data/dataset\Malachite\malachite_18.jpg	16
+./data/dataset\Variscite\variscite_22.jpg	23
+./data/dataset\Benitoite\benitoite_14.jpg	2
+./data/dataset\Iolite\iolite_7.jpg	12
+./data/dataset\Kunzite\kunzite_29.jpg	14
+./data/dataset\Rhodochrosite\rhodochrosite_31.jpg	20
+./data/dataset\Alexandrite\alexandrite_35.jpg	0
+./data/dataset\Zircon\zircon_0.jpg	24
+./data/dataset\Diamond\diamond_0.jpg	7
+./data/dataset\Diamond\diamond_11.jpg	7
+./data/dataset\Pearl\pearl_34.jpg	18
+./data/dataset\Iolite\iolite_33.jpg	12
+./data/dataset\Alexandrite\alexandrite_1.jpg	0
+./data/dataset\Benitoite\benitoite_11.jpg	2
+./data/dataset\Jade\jade_22.jpg	13
+./data/dataset\Garnet Red\garnet red_34.jpg	10
+./data/dataset\Iolite\iolite_29.jpg	12
+./data/dataset\Cats Eye\cats eye_6.jpg	5
+./data/dataset\Emerald\emerald_40.jpg	8
+./data/dataset\Beryl Golden\beryl golden_21.jpg	3
+./data/dataset\Kunzite\kunzite_26.jpg	14
+./data/dataset\Diamond\diamond_31.jpg	7
+./data/dataset\Emerald\emerald_2.jpg	8
+./data/dataset\Garnet Red\garnet red_36.jpg	10
+./data/dataset\Quartz Beer\quartz beer_37.jpg	19
+./data/dataset\Tanzanite\tanzanite_20.jpg	22
+./data/dataset\Labradorite\labradorite_8.jpg	15
+./data/dataset\Malachite\malachite_28.jpg	16
+./data/dataset\Tanzanite\tanzanite_12.jpg	22
+./data/dataset\Zircon\zircon_14.jpg	24
+./data/dataset\Sapphire Blue\sapphire blue_23.jpg	21
+./data/dataset\Carnelian\carnelian_5.jpg	4
+./data/dataset\Iolite\iolite_13.jpg	12
+./data/dataset\Tanzanite\tanzanite_30.jpg	22
+./data/dataset\Hessonite\hessonite_32.jpg	11
+./data/dataset\Onyx Black\onyx black_28.jpg	17
+./data/dataset\Diamond\diamond_20.jpg	7
+./data/dataset\Garnet Red\garnet red_11.jpg	10
+./data/dataset\Jade\jade_1.jpg	13
+./data/dataset\Quartz Beer\quartz beer_32.jpg	19
+./data/dataset\Onyx Black\onyx black_17.jpg	17
+./data/dataset\Beryl Golden\beryl golden_23.jpg	3
+./data/dataset\Beryl Golden\beryl golden_26.jpg	3
+./data/dataset\Beryl Golden\beryl golden_12.jpg	3
+./data/dataset\Pearl\pearl_15.jpg	18
+./data/dataset\Iolite\iolite_21.jpg	12
+./data/dataset\Tanzanite\tanzanite_2.jpg	22
+./data/dataset\Beryl Golden\beryl golden_13.jpg	3
+./data/dataset\Pearl\pearl_0.jpg	18
+./data/dataset\Iolite\iolite_27.jpg	12
+./data/dataset\Jade\jade_19.jpg	13
+./data/dataset\Labradorite\labradorite_14.jpg	15
+./data/dataset\Variscite\variscite_14.jpg	23
+./data/dataset\Quartz Beer\quartz beer_12.jpg	19
+./data/dataset\Quartz Beer\quartz beer_31.jpg	19
+./data/dataset\Onyx Black\onyx black_15.jpg	17
+./data/dataset\Danburite\danburite_20.jpg	6
+./data/dataset\Garnet Red\garnet red_12.jpg	10
+./data/dataset\Jade\jade_17.jpg	13
+./data/dataset\Garnet Red\garnet red_21.jpg	10
+./data/dataset\Danburite\danburite_1.jpg	6
+./data/dataset\Malachite\malachite_22.jpg	16
+./data/dataset\Carnelian\carnelian_13.jpg	4
+./data/dataset\Malachite\malachite_10.jpg	16
+./data/dataset\Almandine\almandine_1.jpg	1
+./data/dataset\Benitoite\benitoite_0.jpg	2
+./data/dataset\Diamond\diamond_33.jpg	7
+./data/dataset\Danburite\danburite_29.jpg	6
+./data/dataset\Alexandrite\alexandrite_25.jpg	0
+./data/dataset\Hessonite\hessonite_7.jpg	11
+./data/dataset\Zircon\zircon_6.jpg	24
+./data/dataset\Onyx Black\onyx black_22.jpg	17
+./data/dataset\Zircon\zircon_29.jpg	24
+./data/dataset\Hessonite\hessonite_21.jpg	11
+./data/dataset\Almandine\almandine_7.jpg	1
+./data/dataset\Iolite\iolite_31.jpg	12
+./data/dataset\Beryl Golden\beryl golden_19.jpg	3
+./data/dataset\Kunzite\kunzite_25.jpg	14
+./data/dataset\Rhodochrosite\rhodochrosite_23.jpg	20
+./data/dataset\Carnelian\carnelian_12.jpg	4
+./data/dataset\Kunzite\kunzite_4.jpg	14
+./data/dataset\Kunzite\kunzite_9.jpg	14
+./data/dataset\Quartz Beer\quartz beer_20.jpg	19
+./data/dataset\Alexandrite\alexandrite_19.jpg	0
+./data/dataset\Almandine\almandine_5.jpg	1
+./data/dataset\Carnelian\carnelian_1.jpg	4
+./data/dataset\Sapphire Blue\sapphire blue_0.jpg	21
+./data/dataset\Garnet Red\garnet red_13.jpg	10
+./data/dataset\Kunzite\kunzite_33.jpg	14
+./data/dataset\Fluorite\fluorite_9.jpg	9
+./data/dataset\Iolite\iolite_26.jpg	12
+./data/dataset\Kunzite\kunzite_2.jpg	14
+./data/dataset\Labradorite\labradorite_11.jpg	15
+./data/dataset\Variscite\variscite_8.jpg	23
+./data/dataset\Quartz Beer\quartz beer_24.jpg	19
+./data/dataset\Hessonite\hessonite_0.jpg	11
+./data/dataset\Tanzanite\tanzanite_28.jpg	22
+./data/dataset\Jade\jade_10.jpg	13
+./data/dataset\Onyx Black\onyx black_21.jpg	17
+./data/dataset\Pearl\pearl_2.jpg	18
+./data/dataset\Rhodochrosite\rhodochrosite_11.jpg	20
+./data/dataset\Alexandrite\alexandrite_33.jpg	0
+./data/dataset\Iolite\iolite_11.jpg	12
+./data/dataset\Pearl\pearl_35.jpg	18
+./data/dataset\Carnelian\carnelian_10.jpg	4
+./data/dataset\Iolite\iolite_1.jpg	12
+./data/dataset\Almandine\almandine_25.jpg	1
+./data/dataset\Jade\jade_30.jpg	13
+./data/dataset\Variscite\variscite_11.jpg	23
+./data/dataset\Alexandrite\alexandrite_2.jpg	0
+./data/dataset\Almandine\almandine_24.jpg	1
+./data/dataset\Variscite\variscite_10.jpg	23
+./data/dataset\Quartz Beer\quartz beer_17.jpg	19
+./data/dataset\Alexandrite\alexandrite_20.jpg	0
+./data/dataset\Zircon\zircon_27.jpg	24
+./data/dataset\Malachite\malachite_29.jpg	16
+./data/dataset\Beryl Golden\beryl golden_28.jpg	3
+./data/dataset\Carnelian\carnelian_23.jpg	4
+./data/dataset\Danburite\danburite_35.jpg	6
+./data/dataset\Quartz Beer\quartz beer_15.jpg	19
+./data/dataset\Onyx Black\onyx black_31.jpg	17
+./data/dataset\Pearl\pearl_13.jpg	18
+./data/dataset\Iolite\iolite_6.jpg	12
+./data/dataset\Hessonite\hessonite_27.jpg	11
+./data/dataset\Diamond\diamond_4.jpg	7
+./data/dataset\Almandine\almandine_15.jpg	1
+./data/dataset\Tanzanite\tanzanite_38.jpg	22
+./data/dataset\Quartz Beer\quartz beer_0.jpg	19
+./data/dataset\Labradorite\labradorite_30.jpg	15
+./data/dataset\Fluorite\fluorite_23.jpg	9
+./data/dataset\Onyx Black\onyx black_5.jpg	17
+./data/dataset\Emerald\emerald_7.jpg	8
+./data/dataset\Alexandrite\alexandrite_32.jpg	0
+./data/dataset\Pearl\pearl_9.jpg	18
+./data/dataset\Malachite\malachite_13.jpg	16
+./data/dataset\Pearl\pearl_24.jpg	18
+./data/dataset\Cats Eye\cats eye_10.jpg	5
+./data/dataset\Diamond\diamond_6.jpg	7
+./data/dataset\Malachite\malachite_5.jpg	16
+./data/dataset\Rhodochrosite\rhodochrosite_22.jpg	20
+./data/dataset\Danburite\danburite_25.jpg	6
+./data/dataset\Zircon\zircon_34.jpg	24
+./data/dataset\Cats Eye\cats eye_11.jpg	5
+./data/dataset\Labradorite\labradorite_0.jpg	15
+./data/dataset\Variscite\variscite_15.jpg	23
+./data/dataset\Onyx Black\onyx black_20.jpg	17
+./data/dataset\Fluorite\fluorite_15.jpg	9
+./data/dataset\Diamond\diamond_21.jpg	7
+./data/dataset\Emerald\emerald_21.jpg	8
+./data/dataset\Danburite\danburite_9.jpg	6
+./data/dataset\Sapphire Blue\sapphire blue_21.jpg	21
+./data/dataset\Pearl\pearl_31.jpg	18
+./data/dataset\Hessonite\hessonite_15.jpg	11
+./data/dataset\Fluorite\fluorite_16.jpg	9
+./data/dataset\Carnelian\carnelian_16.jpg	4
+./data/dataset\Cats Eye\cats eye_19.jpg	5
+./data/dataset\Benitoite\benitoite_4.jpg	2
+./data/dataset\Iolite\iolite_30.jpg	12
+./data/dataset\Cats Eye\cats eye_2.jpg	5
+./data/dataset\Danburite\danburite_15.jpg	6
+./data/dataset\Sapphire Blue\sapphire blue_9.jpg	21
+./data/dataset\Beryl Golden\beryl golden_0.jpg	3
+./data/dataset\Kunzite\kunzite_21.jpg	14
+./data/dataset\Cats Eye\cats eye_0.jpg	5
+./data/dataset\Variscite\variscite_24.jpg	23
+./data/dataset\Labradorite\labradorite_24.jpg	15
+./data/dataset\Benitoite\benitoite_21.jpg	2
+./data/dataset\Beryl Golden\beryl golden_16.jpg	3
+./data/dataset\Garnet Red\garnet red_22.jpg	10
+./data/dataset\Fluorite\fluorite_19.jpg	9
+./data/dataset\Jade\jade_5.jpg	13
+./data/dataset\Almandine\almandine_2.jpg	1
+./data/dataset\Carnelian\carnelian_0.jpg	4
+./data/dataset\Danburite\danburite_2.jpg	6
+./data/dataset\Labradorite\labradorite_37.jpg	15
+./data/dataset\Jade\jade_0.jpg	13
+./data/dataset\Almandine\almandine_19.jpg	1
+./data/dataset\Iolite\iolite_5.jpg	12
+./data/dataset\Malachite\malachite_17.jpg	16
+./data/dataset\Garnet Red\garnet red_25.jpg	10
+./data/dataset\Variscite\variscite_27.jpg	23
+./data/dataset\Cats Eye\cats eye_26.jpg	5
+./data/dataset\Iolite\iolite_10.jpg	12
+./data/dataset\Beryl Golden\beryl golden_24.jpg	3
+./data/dataset\Danburite\danburite_19.jpg	6
+./data/dataset\Iolite\iolite_2.jpg	12
+./data/dataset\Quartz Beer\quartz beer_6.jpg	19
+./data/dataset\Almandine\almandine_30.jpg	1
+./data/dataset\Sapphire Blue\sapphire blue_27.jpg	21
+./data/dataset\Quartz Beer\quartz beer_26.jpg	19
+./data/dataset\Pearl\pearl_6.jpg	18
+./data/dataset\Labradorite\labradorite_17.jpg	15
+./data/dataset\Sapphire Blue\sapphire blue_16.jpg	21
+./data/dataset\Tanzanite\tanzanite_13.jpg	22
+./data/dataset\Cats Eye\cats eye_4.jpg	5
+./data/dataset\Labradorite\labradorite_1.jpg	15
+./data/dataset\Kunzite\kunzite_32.jpg	14
+./data/dataset\Kunzite\kunzite_1.jpg	14
+./data/dataset\Tanzanite\tanzanite_8.jpg	22
+./data/dataset\Alexandrite\alexandrite_14.jpg	0
+./data/dataset\Quartz Beer\quartz beer_11.jpg	19
+./data/dataset\Rhodochrosite\rhodochrosite_12.jpg	20
+./data/dataset\Sapphire Blue\sapphire blue_22.jpg	21
+./data/dataset\Carnelian\carnelian_4.jpg	4
+./data/dataset\Labradorite\labradorite_35.jpg	15
+./data/dataset\Pearl\pearl_10.jpg	18
+./data/dataset\Jade\jade_20.jpg	13
+./data/dataset\Quartz Beer\quartz beer_29.jpg	19
+./data/dataset\Almandine\almandine_8.jpg	1
+./data/dataset\Benitoite\benitoite_20.jpg	2
+./data/dataset\Emerald\emerald_26.jpg	8
+./data/dataset\Hessonite\hessonite_20.jpg	11
+./data/dataset\Beryl Golden\beryl golden_22.jpg	3
+./data/dataset\Zircon\zircon_17.jpg	24
+./data/dataset\Rhodochrosite\rhodochrosite_6.jpg	20
+./data/dataset\Diamond\diamond_27.jpg	7
+./data/dataset\Alexandrite\alexandrite_8.jpg	0
+./data/dataset\Quartz Beer\quartz beer_25.jpg	19
+./data/dataset\Quartz Beer\quartz beer_35.jpg	19
+./data/dataset\Jade\jade_29.jpg	13
+./data/dataset\Rhodochrosite\rhodochrosite_16.jpg	20
+./data/dataset\Labradorite\labradorite_33.jpg	15
+./data/dataset\Emerald\emerald_1.jpg	8
+./data/dataset\Alexandrite\alexandrite_26.jpg	0
+./data/dataset\Labradorite\labradorite_32.jpg	15
+./data/dataset\Almandine\almandine_33.jpg	1
+./data/dataset\Kunzite\kunzite_23.jpg	14
+./data/dataset\Danburite\danburite_14.jpg	6
+./data/dataset\Tanzanite\tanzanite_14.jpg	22
+./data/dataset\Tanzanite\tanzanite_35.jpg	22
+./data/dataset\Zircon\zircon_23.jpg	24
+./data/dataset\Zircon\zircon_21.jpg	24
+./data/dataset\Jade\jade_26.jpg	13
+./data/dataset\Sapphire Blue\sapphire blue_11.jpg	21
+./data/dataset\Hessonite\hessonite_13.jpg	11
+./data/dataset\Tanzanite\tanzanite_32.jpg	22
+./data/dataset\Pearl\pearl_21.jpg	18
+./data/dataset\Danburite\danburite_34.jpg	6
+./data/dataset\Benitoite\benitoite_29.jpg	2
+./data/dataset\Almandine\almandine_32.jpg	1
+./data/dataset\Rhodochrosite\rhodochrosite_14.jpg	20
+./data/dataset\Onyx Black\onyx black_24.jpg	17
+./data/dataset\Alexandrite\alexandrite_9.jpg	0
+./data/dataset\Rhodochrosite\rhodochrosite_21.jpg	20
+./data/dataset\Almandine\almandine_14.jpg	1
+./data/dataset\Jade\jade_14.jpg	13
+./data/dataset\Jade\jade_24.jpg	13
+./data/dataset\Tanzanite\tanzanite_37.jpg	22
+./data/dataset\Pearl\pearl_30.jpg	18
+./data/dataset\Pearl\pearl_36.jpg	18
+./data/dataset\Rhodochrosite\rhodochrosite_2.jpg	20
+./data/dataset\Fluorite\fluorite_4.jpg	9
+./data/dataset\Pearl\pearl_27.jpg	18
+./data/dataset\Quartz Beer\quartz beer_14.jpg	19
+./data/dataset\Cats Eye\cats eye_27.jpg	5
+./data/dataset\Alexandrite\alexandrite_23.jpg	0
+./data/dataset\Carnelian\carnelian_31.jpg	4
+./data/dataset\Tanzanite\tanzanite_21.jpg	22
+./data/dataset\Hessonite\hessonite_24.jpg	11
+./data/dataset\Pearl\pearl_12.jpg	18
+./data/dataset\Hessonite\hessonite_1.jpg	11
+./data/dataset\Quartz Beer\quartz beer_4.jpg	19
+./data/dataset\Onyx Black\onyx black_29.jpg	17
+./data/dataset\Benitoite\benitoite_19.jpg	2
+./data/dataset\Onyx Black\onyx black_11.jpg	17
+./data/dataset\Fluorite\fluorite_2.jpg	9
+./data/dataset\Rhodochrosite\rhodochrosite_13.jpg	20
+./data/dataset\Malachite\malachite_1.jpg	16
+./data/dataset\Danburite\danburite_5.jpg	6
+./data/dataset\Kunzite\kunzite_16.jpg	14
+./data/dataset\Emerald\emerald_34.jpg	8
+./data/dataset\Kunzite\kunzite_22.jpg	14
+./data/dataset\Alexandrite\alexandrite_0.jpg	0
+./data/dataset\Garnet Red\garnet red_30.jpg	10
+./data/dataset\Labradorite\labradorite_38.jpg	15
+./data/dataset\Jade\jade_6.jpg	13
+./data/dataset\Kunzite\kunzite_0.jpg	14
+./data/dataset\Garnet Red\garnet red_0.jpg	10
+./data/dataset\Hessonite\hessonite_22.jpg	11
+./data/dataset\Emerald\emerald_36.jpg	8
+./data/dataset\Malachite\malachite_30.jpg	16
+./data/dataset\Emerald\emerald_20.jpg	8
+./data/dataset\Almandine\almandine_27.jpg	1
+./data/dataset\Diamond\diamond_8.jpg	7
+./data/dataset\Emerald\emerald_15.jpg	8
+./data/dataset\Sapphire Blue\sapphire blue_37.jpg	21
+./data/dataset\Tanzanite\tanzanite_18.jpg	22
+./data/dataset\Garnet Red\garnet red_27.jpg	10
+./data/dataset\Garnet Red\garnet red_23.jpg	10
+./data/dataset\Variscite\variscite_25.jpg	23
+./data/dataset\Jade\jade_28.jpg	13
+./data/dataset\Diamond\diamond_34.jpg	7
+./data/dataset\Garnet Red\garnet red_14.jpg	10
+./data/dataset\Kunzite\kunzite_19.jpg	14
+./data/dataset\Variscite\variscite_32.jpg	23
+./data/dataset\Beryl Golden\beryl golden_1.jpg	3
+./data/dataset\Emerald\emerald_13.jpg	8
+./data/dataset\Emerald\emerald_22.jpg	8
+./data/dataset\Fluorite\fluorite_1.jpg	9
+./data/dataset\Benitoite\benitoite_31.jpg	2
+./data/dataset\Malachite\malachite_15.jpg	16
+./data/dataset\Carnelian\carnelian_22.jpg	4
+./data/dataset\Benitoite\benitoite_23.jpg	2
+./data/dataset\Diamond\diamond_29.jpg	7
+./data/dataset\Fluorite\fluorite_26.jpg	9
+./data/dataset\Labradorite\labradorite_2.jpg	15
+./data/dataset\Labradorite\labradorite_15.jpg	15
+./data/dataset\Pearl\pearl_17.jpg	18
+./data/dataset\Kunzite\kunzite_27.jpg	14
+./data/dataset\Carnelian\carnelian_27.jpg	4
+./data/dataset\Malachite\malachite_24.jpg	16
+./data/dataset\Iolite\iolite_12.jpg	12
+./data/dataset\Hessonite\hessonite_9.jpg	11
+./data/dataset\Kunzite\kunzite_10.jpg	14
+./data/dataset\Fluorite\fluorite_27.jpg	9
+./data/dataset\Alexandrite\alexandrite_16.jpg	0
+./data/dataset\Iolite\iolite_17.jpg	12
+./data/dataset\Iolite\iolite_22.jpg	12
+./data/dataset\Beryl Golden\beryl golden_10.jpg	3
+./data/dataset\Almandine\almandine_6.jpg	1
+./data/dataset\Hessonite\hessonite_19.jpg	11
+./data/dataset\Rhodochrosite\rhodochrosite_27.jpg	20
+./data/dataset\Variscite\variscite_16.jpg	23
+./data/dataset\Hessonite\hessonite_12.jpg	11
+./data/dataset\Cats Eye\cats eye_31.jpg	5
+./data/dataset\Sapphire Blue\sapphire blue_4.jpg	21
+./data/dataset\Diamond\diamond_10.jpg	7
+./data/dataset\Beryl Golden\beryl golden_38.jpg	3
+./data/dataset\Alexandrite\alexandrite_22.jpg	0
+./data/dataset\Rhodochrosite\rhodochrosite_8.jpg	20
+./data/dataset\Kunzite\kunzite_7.jpg	14
+./data/dataset\Garnet Red\garnet red_18.jpg	10
+./data/dataset\Malachite\malachite_14.jpg	16
+./data/dataset\Fluorite\fluorite_5.jpg	9
+./data/dataset\Quartz Beer\quartz beer_27.jpg	19
+./data/dataset\Variscite\variscite_21.jpg	23
+./data/dataset\Alexandrite\alexandrite_12.jpg	0
+./data/dataset\Sapphire Blue\sapphire blue_25.jpg	21
+./data/dataset\Zircon\zircon_25.jpg	24
+./data/dataset\Carnelian\carnelian_35.jpg	4
+./data/dataset\Variscite\variscite_33.jpg	23
+./data/dataset\Rhodochrosite\rhodochrosite_10.jpg	20
+./data/dataset\Rhodochrosite\rhodochrosite_9.jpg	20
+./data/dataset\Malachite\malachite_0.jpg	16
+./data/dataset\Kunzite\kunzite_30.jpg	14
+./data/dataset\Diamond\diamond_17.jpg	7
+./data/dataset\Tanzanite\tanzanite_16.jpg	22
+./data/dataset\Iolite\iolite_4.jpg	12
+./data/dataset\Malachite\malachite_27.jpg	16
+./data/dataset\Emerald\emerald_33.jpg	8
+./data/dataset\Diamond\diamond_25.jpg	7
+./data/dataset\Labradorite\labradorite_20.jpg	15
+./data/dataset\Danburite\danburite_17.jpg	6
+./data/dataset\Danburite\danburite_30.jpg	6
+./data/dataset\Zircon\zircon_11.jpg	24
+./data/dataset\Alexandrite\alexandrite_5.jpg	0
+./data/dataset\Quartz Beer\quartz beer_8.jpg	19
+./data/dataset\Zircon\zircon_4.jpg	24
+./data/dataset\Tanzanite\tanzanite_1.jpg	22
+./data/dataset\Benitoite\benitoite_30.jpg	2
+./data/dataset\Alexandrite\alexandrite_13.jpg	0
+./data/dataset\Emerald\emerald_25.jpg	8
+./data/dataset\Hessonite\hessonite_10.jpg	11
+./data/dataset\Fluorite\fluorite_11.jpg	9
+./data/dataset\Hessonite\hessonite_11.jpg	11
+./data/dataset\Garnet Red\garnet red_7.jpg	10
+./data/dataset\Emerald\emerald_23.jpg	8
+./data/dataset\Danburite\danburite_23.jpg	6
+./data/dataset\Malachite\malachite_2.jpg	16
+./data/dataset\Rhodochrosite\rhodochrosite_20.jpg	20
+./data/dataset\Cats Eye\cats eye_32.jpg	5
+./data/dataset\Labradorite\labradorite_5.jpg	15
+./data/dataset\Alexandrite\alexandrite_7.jpg	0
+./data/dataset\Cats Eye\cats eye_14.jpg	5
+./data/dataset\Fluorite\fluorite_20.jpg	9
+./data/dataset\Benitoite\benitoite_7.jpg	2
+./data/dataset\Zircon\zircon_36.jpg	24
+./data/dataset\Emerald\emerald_37.jpg	8
+./data/dataset\Danburite\danburite_13.jpg	6
+./data/dataset\Sapphire Blue\sapphire blue_13.jpg	21
+./data/dataset\Rhodochrosite\rhodochrosite_1.jpg	20
+./data/dataset\Diamond\diamond_5.jpg	7
+./data/dataset\Beryl Golden\beryl golden_34.jpg	3
+./data/dataset\Zircon\zircon_13.jpg	24
+./data/dataset\Beryl Golden\beryl golden_17.jpg	3
+./data/dataset\Variscite\variscite_12.jpg	23
+./data/dataset\Emerald\emerald_30.jpg	8
+./data/dataset\Almandine\almandine_11.jpg	1
+./data/dataset\Garnet Red\garnet red_32.jpg	10
+./data/dataset\Garnet Red\garnet red_24.jpg	10
+./data/dataset\Malachite\malachite_7.jpg	16
+./data/dataset\Labradorite\labradorite_36.jpg	15
+./data/dataset\Cats Eye\cats eye_24.jpg	5
+./data/dataset\Jade\jade_31.jpg	13
+./data/dataset\Tanzanite\tanzanite_5.jpg	22
+./data/dataset\Alexandrite\alexandrite_37.jpg	0
+./data/dataset\Carnelian\carnelian_26.jpg	4
+./data/dataset\Rhodochrosite\rhodochrosite_4.jpg	20
+./data/dataset\Pearl\pearl_33.jpg	18
+./data/dataset\Carnelian\carnelian_32.jpg	4
+./data/dataset\Iolite\iolite_20.jpg	12
+./data/dataset\Beryl Golden\beryl golden_18.jpg	3
+./data/dataset\Beryl Golden\beryl golden_25.jpg	3
+./data/dataset\Beryl Golden\beryl golden_2.jpg	3
+./data/dataset\Garnet Red\garnet red_28.jpg	10
+./data/dataset\Zircon\zircon_22.jpg	24
+./data/dataset\Diamond\diamond_7.jpg	7
+./data/dataset\Garnet Red\garnet red_5.jpg	10
+./data/dataset\Benitoite\benitoite_8.jpg	2
+./data/dataset\Garnet Red\garnet red_15.jpg	10
+./data/dataset\Benitoite\benitoite_27.jpg	2
+./data/dataset\Labradorite\labradorite_23.jpg	15
+./data/dataset\Sapphire Blue\sapphire blue_8.jpg	21
+./data/dataset\Kunzite\kunzite_13.jpg	14
+./data/dataset\Almandine\almandine_16.jpg	1
+./data/dataset\Fluorite\fluorite_31.jpg	9
+./data/dataset\Quartz Beer\quartz beer_1.jpg	19
+./data/dataset\Diamond\diamond_26.jpg	7
+./data/dataset\Onyx Black\onyx black_2.jpg	17
+./data/dataset\Pearl\pearl_20.jpg	18
+./data/dataset\Diamond\diamond_19.jpg	7
+./data/dataset\Diamond\diamond_15.jpg	7
+./data/dataset\Garnet Red\garnet red_20.jpg	10
+./data/dataset\Malachite\malachite_19.jpg	16
+./data/dataset\Sapphire Blue\sapphire blue_26.jpg	21
+./data/dataset\Carnelian\carnelian_24.jpg	4
+./data/dataset\Alexandrite\alexandrite_15.jpg	0
+./data/dataset\Garnet Red\garnet red_8.jpg	10
+./data/dataset\Carnelian\carnelian_20.jpg	4
+./data/dataset\Almandine\almandine_22.jpg	1
+./data/dataset\Benitoite\benitoite_5.jpg	2
+./data/dataset\Fluorite\fluorite_24.jpg	9
+./data/dataset\Quartz Beer\quartz beer_30.jpg	19
+./data/dataset\Beryl Golden\beryl golden_29.jpg	3
+./data/dataset\Fluorite\fluorite_7.jpg	9
+./data/dataset\Emerald\emerald_29.jpg	8
+./data/dataset\Carnelian\carnelian_2.jpg	4
+./data/dataset\Labradorite\labradorite_28.jpg	15
+./data/dataset\Kunzite\kunzite_5.jpg	14
+./data/dataset\Garnet Red\garnet red_26.jpg	10
+./data/dataset\Zircon\zircon_15.jpg	24
+./data/dataset\Sapphire Blue\sapphire blue_17.jpg	21
+./data/dataset\Diamond\diamond_22.jpg	7
+./data/dataset\Sapphire Blue\sapphire blue_10.jpg	21
+./data/dataset\Kunzite\kunzite_6.jpg	14
+./data/dataset\Almandine\almandine_31.jpg	1
+./data/dataset\Diamond\diamond_16.jpg	7
+./data/dataset\Cats Eye\cats eye_34.jpg	5
+./data/dataset\Cats Eye\cats eye_7.jpg	5
+./data/dataset\Jade\jade_15.jpg	13
+./data/dataset\Garnet Red\garnet red_38.jpg	10
+./data/dataset\Almandine\almandine_4.jpg	1
+./data/dataset\Iolite\iolite_34.jpg	12
+./data/dataset\Labradorite\labradorite_39.jpg	15
+./data/dataset\Tanzanite\tanzanite_19.jpg	22
+./data/dataset\Onyx Black\onyx black_13.jpg	17
+./data/dataset\Rhodochrosite\rhodochrosite_25.jpg	20
+./data/dataset\Labradorite\labradorite_10.jpg	15
+./data/dataset\Hessonite\hessonite_17.jpg	11
+./data/dataset\Almandine\almandine_12.jpg	1
+./data/dataset\Variscite\variscite_26.jpg	23
+./data/dataset\Cats Eye\cats eye_30.jpg	5
+./data/dataset\Zircon\zircon_32.jpg	24
+./data/dataset\Fluorite\fluorite_29.jpg	9
+./data/dataset\Tanzanite\tanzanite_26.jpg	22
+./data/dataset\Carnelian\carnelian_21.jpg	4
+./data/dataset\Iolite\iolite_15.jpg	12
+./data/dataset\Danburite\danburite_27.jpg	6
+./data/dataset\Labradorite\labradorite_29.jpg	15
+./data/dataset\Zircon\zircon_12.jpg	24
+./data/dataset\Zircon\zircon_24.jpg	24
+./data/dataset\Benitoite\benitoite_16.jpg	2
+./data/dataset\Onyx Black\onyx black_10.jpg	17
+./data/dataset\Variscite\variscite_7.jpg	23
+./data/dataset\Malachite\malachite_31.jpg	16
+./data/dataset\Danburite\danburite_26.jpg	6
+./data/dataset\Benitoite\benitoite_2.jpg	2
+./data/dataset\Alexandrite\alexandrite_10.jpg	0
+./data/dataset\Pearl\pearl_22.jpg	18
+./data/dataset\Hessonite\hessonite_30.jpg	11
+./data/dataset\Alexandrite\alexandrite_21.jpg	0
+./data/dataset\Onyx Black\onyx black_12.jpg	17
+./data/dataset\Carnelian\carnelian_34.jpg	4
+./data/dataset\Sapphire Blue\sapphire blue_5.jpg	21
+./data/dataset\Tanzanite\tanzanite_0.jpg	22
+./data/dataset\Kunzite\kunzite_17.jpg	14
+./data/dataset\Almandine\almandine_17.jpg	1
+./data/dataset\Almandine\almandine_20.jpg	1
+./data/dataset\Cats Eye\cats eye_17.jpg	5
+./data/dataset\Cats Eye\cats eye_16.jpg	5
+./data/dataset\Sapphire Blue\sapphire blue_29.jpg	21
+./data/dataset\Variscite\variscite_29.jpg	23
+./data/dataset\Emerald\emerald_14.jpg	8
+./data/dataset\Sapphire Blue\sapphire blue_20.jpg	21
+./data/dataset\Pearl\pearl_11.jpg	18
+./data/dataset\Tanzanite\tanzanite_25.jpg	22
+./data/dataset\Emerald\emerald_10.jpg	8
+./data/dataset\Emerald\emerald_17.jpg	8
+./data/dataset\Fluorite\fluorite_35.jpg	9
+./data/dataset\Rhodochrosite\rhodochrosite_17.jpg	20
+./data/dataset\Variscite\variscite_19.jpg	23
+./data/dataset\Variscite\variscite_9.jpg	23
+./data/dataset\Cats Eye\cats eye_25.jpg	5
+./data/dataset\Benitoite\benitoite_1.jpg	2
+./data/dataset\Emerald\emerald_27.jpg	8
+./data/dataset\Carnelian\carnelian_6.jpg	4
+./data/dataset\Emerald\emerald_35.jpg	8
+./data/dataset\Quartz Beer\quartz beer_19.jpg	19
+./data/dataset\Sapphire Blue\sapphire blue_24.jpg	21
+./data/dataset\Labradorite\labradorite_7.jpg	15
+./data/dataset\Carnelian\carnelian_17.jpg	4
+./data/dataset\Sapphire Blue\sapphire blue_15.jpg	21
+./data/dataset\Labradorite\labradorite_34.jpg	15
+./data/dataset\Hessonite\hessonite_4.jpg	11
+./data/dataset\Kunzite\kunzite_15.jpg	14
+./data/dataset\Quartz Beer\quartz beer_10.jpg	19
+./data/dataset\Benitoite\benitoite_17.jpg	2
+./data/dataset\Fluorite\fluorite_17.jpg	9
+./data/dataset\Carnelian\carnelian_14.jpg	4
+./data/dataset\Danburite\danburite_16.jpg	6
+./data/dataset\Onyx Black\onyx black_27.jpg	17
+./data/dataset\Pearl\pearl_14.jpg	18
+./data/dataset\Alexandrite\alexandrite_34.jpg	0
+./data/dataset\Carnelian\carnelian_8.jpg	4
+./data/dataset\Hessonite\hessonite_31.jpg	11
+./data/dataset\Variscite\variscite_23.jpg	23
+./data/dataset\Sapphire Blue\sapphire blue_35.jpg	21
+./data/dataset\Hessonite\hessonite_29.jpg	11
+./data/dataset\Garnet Red\garnet red_1.jpg	10
+./data/dataset\Quartz Beer\quartz beer_22.jpg	19
+./data/dataset\Rhodochrosite\rhodochrosite_26.jpg	20
+./data/dataset\Labradorite\labradorite_22.jpg	15
+./data/dataset\Pearl\pearl_29.jpg	18
+./data/dataset\Variscite\variscite_4.jpg	23
+./data/dataset\Benitoite\benitoite_32.jpg	2
+./data/dataset\Zircon\zircon_16.jpg	24
+./data/dataset\Sapphire Blue\sapphire blue_31.jpg	21
+./data/dataset\Jade\jade_7.jpg	13
+./data/dataset\Onyx Black\onyx black_1.jpg	17
+./data/dataset\Cats Eye\cats eye_21.jpg	5
+./data/dataset\Emerald\emerald_6.jpg	8
+./data/dataset\Benitoite\benitoite_15.jpg	2
+./data/dataset\Almandine\almandine_21.jpg	1
+./data/dataset\Pearl\pearl_5.jpg	18
+./data/dataset\Variscite\variscite_5.jpg	23
+./data/dataset\Sapphire Blue\sapphire blue_36.jpg	21
+./data/dataset\Garnet Red\garnet red_19.jpg	10
+./data/dataset\Danburite\danburite_10.jpg	6
+./data/dataset\Almandine\almandine_29.jpg	1
+./data/dataset\Zircon\zircon_19.jpg	24
+./data/dataset\Kunzite\kunzite_20.jpg	14
+./data/dataset\Fluorite\fluorite_13.jpg	9
+./data/dataset\Cats Eye\cats eye_29.jpg	5
+./data/dataset\Benitoite\benitoite_26.jpg	2
+./data/dataset\Emerald\emerald_24.jpg	8
+./data/dataset\Cats Eye\cats eye_23.jpg	5
+./data/dataset\Quartz Beer\quartz beer_38.jpg	19
+./data/dataset\Garnet Red\garnet red_33.jpg	10
+./data/dataset\Malachite\malachite_20.jpg	16
+./data/dataset\Onyx Black\onyx black_16.jpg	17
+./data/dataset\Jade\jade_23.jpg	13
+./data/dataset\Tanzanite\tanzanite_11.jpg	22
+./data/dataset\Rhodochrosite\rhodochrosite_7.jpg	20
+./data/dataset\Quartz Beer\quartz beer_36.jpg	19
+./data/dataset\Hessonite\hessonite_8.jpg	11
+./data/dataset\Sapphire Blue\sapphire blue_12.jpg	21
+./data/dataset\Beryl Golden\beryl golden_36.jpg	3
+./data/dataset\Danburite\danburite_31.jpg	6
+./data/dataset\Almandine\almandine_26.jpg	1
+./data/dataset\Tanzanite\tanzanite_7.jpg	22
+./data/dataset\Beryl Golden\beryl golden_31.jpg	3
+./data/dataset\Tanzanite\tanzanite_31.jpg	22
+./data/dataset\Kunzite\kunzite_11.jpg	14
+./data/dataset\Pearl\pearl_32.jpg	18
+./data/dataset\Fluorite\fluorite_10.jpg	9
+./data/dataset\Emerald\emerald_39.jpg	8
+./data/dataset\Jade\jade_13.jpg	13
+./data/dataset\Tanzanite\tanzanite_33.jpg	22
+./data/dataset\Pearl\pearl_1.jpg	18
+./data/dataset\Malachite\malachite_11.jpg	16
+./data/dataset\Labradorite\labradorite_6.jpg	15
+./data/dataset\Onyx Black\onyx black_4.jpg	17
+./data/dataset\Emerald\emerald_32.jpg	8
+./data/dataset\Variscite\variscite_0.jpg	23
+./data/dataset\Malachite\malachite_26.jpg	16
+./data/dataset\Pearl\pearl_19.jpg	18
+./data/dataset\Malachite\malachite_16.jpg	16
+./data/dataset\Cats Eye\cats eye_1.jpg	5
+./data/dataset\Tanzanite\tanzanite_23.jpg	22
+./data/dataset\Benitoite\benitoite_10.jpg	2
+./data/dataset\Diamond\diamond_23.jpg	7
+./data/dataset\Alexandrite\alexandrite_24.jpg	0
+./data/dataset\Danburite\danburite_24.jpg	6
+./data/dataset\Onyx Black\onyx black_30.jpg	17
+./data/dataset\Zircon\zircon_35.jpg	24
+./data/dataset\Labradorite\labradorite_13.jpg	15
+./data/dataset\Carnelian\carnelian_29.jpg	4
+./data/dataset\Fluorite\fluorite_21.jpg	9
+./data/dataset\Onyx Black\onyx black_18.jpg	17
+./data/dataset\Tanzanite\tanzanite_10.jpg	22
+./data/dataset\Iolite\iolite_23.jpg	12
+./data/dataset\Zircon\zircon_10.jpg	24
+./data/dataset\Fluorite\fluorite_14.jpg	9
+./data/dataset\Hessonite\hessonite_5.jpg	11
+./data/dataset\Garnet Red\garnet red_16.jpg	10
+./data/dataset\Tanzanite\tanzanite_27.jpg	22
+./data/dataset\Variscite\variscite_13.jpg	23
+./data/dataset\Onyx Black\onyx black_7.jpg	17
+./data/dataset\Sapphire Blue\sapphire blue_14.jpg	21
+./data/dataset\Benitoite\benitoite_13.jpg	2
+./data/dataset\Danburite\danburite_7.jpg	6
+./data/dataset\Hessonite\hessonite_16.jpg	11
+./data/dataset\Alexandrite\alexandrite_31.jpg	0
+./data/dataset\Carnelian\carnelian_30.jpg	4
+./data/dataset\Iolite\iolite_19.jpg	12
+./data/dataset\Garnet Red\garnet red_37.jpg	10
+./data/dataset\Beryl Golden\beryl golden_27.jpg	3
+./data/dataset\Beryl Golden\beryl golden_33.jpg	3
+./data/dataset\Carnelian\carnelian_33.jpg	4
+./data/dataset\Fluorite\fluorite_34.jpg	9
+./data/dataset\Carnelian\carnelian_9.jpg	4
+./data/dataset\Emerald\emerald_9.jpg	8
+./data/dataset\Tanzanite\tanzanite_36.jpg	22
+./data/dataset\Alexandrite\alexandrite_36.jpg	0
+./data/dataset\Benitoite\benitoite_25.jpg	2
+./data/dataset\Danburite\danburite_22.jpg	6
+./data/dataset\Sapphire Blue\sapphire blue_32.jpg	21
+./data/dataset\Iolite\iolite_0.jpg	12
+./data/dataset\Fluorite\fluorite_0.jpg	9
+./data/dataset\Quartz Beer\quartz beer_9.jpg	19
+./data/dataset\Sapphire Blue\sapphire blue_19.jpg	21
+./data/dataset\Rhodochrosite\rhodochrosite_24.jpg	20
+./data/dataset\Pearl\pearl_8.jpg	18
+./data/dataset\Quartz Beer\quartz beer_2.jpg	19
+./data/dataset\Tanzanite\tanzanite_22.jpg	22
+./data/dataset\Emerald\emerald_16.jpg	8
+./data/dataset\Labradorite\labradorite_27.jpg	15
+./data/dataset\Garnet Red\garnet red_31.jpg	10
+./data/dataset\Iolite\iolite_32.jpg	12
+./data/dataset\Danburite\danburite_4.jpg	6
+./data/dataset\Zircon\zircon_33.jpg	24
+./data/dataset\Jade\jade_16.jpg	13
+./data/dataset\Tanzanite\tanzanite_29.jpg	22
+./data/dataset\Pearl\pearl_25.jpg	18
+./data/dataset\Malachite\malachite_23.jpg	16
+./data/dataset\Labradorite\labradorite_25.jpg	15
+./data/dataset\Garnet Red\garnet red_17.jpg	10
+./data/dataset\Fluorite\fluorite_6.jpg	9
+./data/dataset\Cats Eye\cats eye_8.jpg	5
+./data/dataset\Beryl Golden\beryl golden_39.jpg	3
+./data/dataset\Onyx Black\onyx black_19.jpg	17
+./data/dataset\Pearl\pearl_23.jpg	18
+./data/dataset\Labradorite\labradorite_19.jpg	15
+./data/dataset\Onyx Black\onyx black_0.jpg	17
+./data/dataset\Cats Eye\cats eye_13.jpg	5
+./data/dataset\Diamond\diamond_24.jpg	7
+./data/dataset\Labradorite\labradorite_9.jpg	15
+./data/dataset\Zircon\zircon_31.jpg	24
+./data/dataset\Beryl Golden\beryl golden_15.jpg	3
+./data/dataset\Jade\jade_18.jpg	13
+./data/dataset\Fluorite\fluorite_32.jpg	9
+./data/dataset\Zircon\zircon_5.jpg	24
+./data/dataset\Jade\jade_2.jpg	13
+./data/dataset\Quartz Beer\quartz beer_34.jpg	19
+./data/dataset\Diamond\diamond_14.jpg	7
+./data/dataset\Labradorite\labradorite_18.jpg	15
+./data/dataset\Jade\jade_11.jpg	13
+./data/dataset\Kunzite\kunzite_31.jpg	14
+./data/dataset\Benitoite\benitoite_34.jpg	2
+./data/dataset\Danburite\danburite_0.jpg	6
+./data/dataset\Almandine\almandine_10.jpg	1
+./data/dataset\Quartz Beer\quartz beer_21.jpg	19
+./data/dataset\Carnelian\carnelian_11.jpg	4
+./data/dataset\Alexandrite\alexandrite_29.jpg	0
+./data/dataset\Beryl Golden\beryl golden_35.jpg	3
+./data/dataset\Fluorite\fluorite_30.jpg	9
+./data/dataset\Sapphire Blue\sapphire blue_34.jpg	21
+./data/dataset\Cats Eye\cats eye_5.jpg	5
+./data/dataset\Kunzite\kunzite_12.jpg	14
+./data/dataset\Hessonite\hessonite_26.jpg	11
+./data/dataset\Tanzanite\tanzanite_17.jpg	22
+./data/dataset\Rhodochrosite\rhodochrosite_15.jpg	20
+./data/dataset\Alexandrite\alexandrite_11.jpg	0
+./data/dataset\Zircon\zircon_26.jpg	24
+./data/dataset\Hessonite\hessonite_33.jpg	11
+./data/dataset\Variscite\variscite_6.jpg	23
+./data/dataset\Fluorite\fluorite_25.jpg	9
+./data/dataset\Zircon\zircon_9.jpg	24
+./data/dataset\Variscite\variscite_30.jpg	23
+./data/dataset\Danburite\danburite_6.jpg	6
+./data/dataset\Iolite\iolite_9.jpg	12
+./data/dataset\Emerald\emerald_11.jpg	8
+./data/dataset\Diamond\diamond_12.jpg	7
+./data/dataset\Danburite\danburite_12.jpg	6
+./data/dataset\Malachite\malachite_6.jpg	16
+./data/dataset\Almandine\almandine_0.jpg	1
+./data/dataset\Quartz Beer\quartz beer_28.jpg	19
+./data/dataset\Rhodochrosite\rhodochrosite_5.jpg	20
+./data/dataset\Beryl Golden\beryl golden_14.jpg	3
+./data/dataset\Kunzite\kunzite_34.jpg	14
+./data/dataset\Emerald\emerald_12.jpg	8
+./data/dataset\Diamond\diamond_32.jpg	7
+./data/dataset\Alexandrite\alexandrite_30.jpg	0
+./data/dataset\Garnet Red\garnet red_35.jpg	10
+./data/dataset\Beryl Golden\beryl golden_32.jpg	3

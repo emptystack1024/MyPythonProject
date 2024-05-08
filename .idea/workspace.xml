@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/ppocr_glm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN学习/AlexNet-Pytorch/Alexnet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN学习/AlexNet-Pytorch/archive_test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN学习/AlexNet-Pytorch/archive_train.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN学习/AlexNet-Pytorch/eval.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN学习/AlexNet-Pytorch/train.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/.ipynb_checkpoints/test1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/.ipynb_checkpoints/test1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/t10k-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/train-images-idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/train-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/train-labels-idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/data/MNIST/raw/train-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/data/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN学习/CNN_alexnet/test1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/CNN_lexnet/test1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glm4api学习/glm-cookbook/demo/ppocr_glm.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -37,6 +30,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;emptystack1024&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/emptystack1024/MyPythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;f279bdfd-5ef3-4c39-b67f-517b4e5555f9&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -62,7 +67,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Anaconda3/Library/bin/conda.bat&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/code/pythonProject/pythonProject/CNN学习/AlexNet-Pytorch&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,18 +79,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\CNN学习\AlexNet-Pytorch" />
       <recent name="C:\code\pythonProject\pythonProject\glm4api学习\glm-cookbook\basic" />
       <recent name="C:\code\pythonProject\pythonProject" />
       <recent name="C:\code\pythonProject\pythonProject\大创\数据拟合" />
       <recent name="C:\code\pythonProject\pythonProject\100个超强机器学习算法模型\data" />
-      <recent name="C:\code\pythonProject\pythonProject\AIStudio学习" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\pythonProject\pythonProject\CNN学习\AlexNet-Pytorch" />
       <recent name="C:\code\pythonProject\pythonProject" />
       <recent name="C:\code\pythonProject\pythonProject\pytorch学习" />
       <recent name="C:\code\pythonProject\pythonProject\CNN学习\pytorch猫狗识别" />
       <recent name="C:\code\pythonProject\pythonProject\CNN学习\CNN_alexnet" />
-      <recent name="C:\code\pythonProject\pythonProject\glm4api学习\glm-cookbook\demo" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -175,6 +180,9 @@
       <workItem from="1714534784432" duration="33000" />
       <workItem from="1714534837884" duration="1091000" />
       <workItem from="1714880305433" duration="23000" />
+      <workItem from="1715144676895" duration="1885000" />
+      <workItem from="1715151621960" duration="252000" />
+      <workItem from="1715153199016" duration="609000" />
     </task>
     <servers />
   </component>
