@@ -1,0 +1,1 @@
+{"default":{"features":{"id":{"_type":"Value"},"sentence1":{"_type":"Value"},"sentence2":{"_type":"Value"},"label":{"_type":"Value"}},"splits":{"test":{"name":"test","dataset_name":"afqmc"},"validation":{"name":"validation","dataset_name":"afqmc"},"train":{"name":"train","dataset_name":"afqmc"}}}}
