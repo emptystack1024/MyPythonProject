@@ -143,7 +143,7 @@ plt.xlabel('Base error')
 plt.ylabel('Base/Ensemble error')
 plt.legend(loc='upper left')
 plt.grid(alpha=0.5)
-#plt.savefig('figures/07_03.png', dpi=300)
+
 plt.show()
 
 
@@ -182,24 +182,7 @@ np.argmax(p)
 
 class MajorityVoteClassifier(BaseEstimator, 
                              ClassifierMixin):
-    """ A majority vote ensemble classifier
-
-    Parameters
-    ----------
-    classifiers : array-like, shape = [n_classifiers]
-      Different classifiers for the ensemble
-
-    vote : str, {'classlabel', 'probability'} (default='classlabel')
-      If 'classlabel' the prediction is based on the argmax of
-        class labels. Else if 'probability', the argmax of
-        the sum of probabilities is used to predict the class label
-        (recommended for calibrated classifiers).
-
-    weights : array-like, shape = [n_classifiers], optional (default=None)
-      If a list of `int` or `float` values are provided, the classifiers
-      are weighted by importance; Uses uniform weights if `weights=None`.
-
-    """
+    # A majority vote ensemble classifier
     def __init__(self, classifiers, vote='classlabel', weights=None):
 
         self.classifiers = classifiers
@@ -209,21 +192,7 @@ class MajorityVoteClassifier(BaseEstimator,
         self.weights = weights
 
     def fit(self, X, y):
-        """ Fit classifiers.
-
-        Parameters
-        ----------
-        X : {array-like, sparse matrix}, shape = [n_examples, n_features]
-            Matrix of training examples.
-
-        y : array-like, shape = [n_examples]
-            Vector of target class labels.
-
-        Returns
-        -------
-        self : object
-
-        """
+        # Fit classifiers.
         if self.vote not in ('probability', 'classlabel'):
             raise ValueError(f"vote must be 'probability' or 'classlabel'"
                              f"; got (vote={self.vote})")
@@ -245,19 +214,7 @@ class MajorityVoteClassifier(BaseEstimator,
         return self
 
     def predict(self, X):
-        """ Predict class labels for X.
-
-        Parameters
-        ----------
-        X : {array-like, sparse matrix}, shape = [n_examples, n_features]
-            Matrix of training examples.
-
-        Returns
-        ----------
-        maj_vote : array-like, shape = [n_examples]
-            Predicted class labels.
-            
-        """
+        # Predict class labels for X.
         if self.vote == 'probability':
             maj_vote = np.argmax(self.predict_proba(X), axis=1)
         else:  # 'classlabel' vote
@@ -276,27 +233,15 @@ class MajorityVoteClassifier(BaseEstimator,
         return maj_vote
 
     def predict_proba(self, X):
-        """ Predict class probabilities for X.
+        # Predict class probabilities for X.
 
-        Parameters
-        ----------
-        X : {array-like, sparse matrix}, shape = [n_examples, n_features]
-            Training vectors, where n_examples is the number of examples and
-            n_features is the number of features.
-
-        Returns
-        ----------
-        avg_proba : array-like, shape = [n_examples, n_classes]
-            Weighted average probability for each class per example.
-
-        """
         probas = np.asarray([clf.predict_proba(X)
                              for clf in self.classifiers_])
         avg_proba = np.average(probas, axis=0, weights=self.weights)
         return avg_proba
 
     def get_params(self, deep=True):
-        """ Get classifier parameter names for GridSearch"""
+        # Get classifier parameter names for GridSearch
         if not deep:
             return super().get_params(deep=False)
         else:
@@ -319,7 +264,8 @@ X, y = iris.data[50:, [1, 2]], iris.target[50:]
 le = LabelEncoder()
 y = le.fit_transform(y)
 
-X_train, X_test, y_train, y_test =       train_test_split(X, y, 
+X_train, X_test, y_train, y_test =\
+       train_test_split(X, y, 
                         test_size=0.5, 
                         random_state=1,
                         stratify=y)
@@ -388,7 +334,8 @@ for clf, label in zip(all_clf, clf_labels):
 
 colors = ['black', 'orange', 'blue', 'green']
 linestyles = [':', '--', '-.', '-']
-for clf, label, clr, ls         in zip(all_clf,
+for clf, label, clr, ls \
+        in zip(all_clf,
                clf_labels, colors, linestyles):
 
     # assuming the label of the positive class is 1
@@ -591,7 +538,8 @@ X = df_wine[['Alcohol', 'OD280/OD315 of diluted wines']].values
 le = LabelEncoder()
 y = le.fit_transform(y)
 
-X_train, X_test, y_train, y_test =            train_test_split(X, y, 
+X_train, X_test, y_train, y_test =\
+            train_test_split(X, y, 
                              test_size=0.2, 
                              random_state=1,
                              stratify=y)
@@ -604,7 +552,7 @@ tree = DecisionTreeClassifier(criterion='entropy',
                               max_depth=None,
                               random_state=1)
 
-bag = BaggingClassifier(base_estimator=tree,
+bag = BaggingClassifier(tree,
                         n_estimators=500, 
                         max_samples=1.0, 
                         max_features=1.0, 
@@ -759,7 +707,7 @@ tree = DecisionTreeClassifier(criterion='entropy',
                               max_depth=1,
                               random_state=1)
 
-ada = AdaBoostClassifier(base_estimator=tree,
+ada = AdaBoostClassifier(tree,
                          n_estimators=500, 
                          learning_rate=0.1,
                          random_state=1)
@@ -857,7 +805,7 @@ plt.show()
 
 
 
-# ## Using XGboost 
+# ## Using XGBoost 
 
 
 

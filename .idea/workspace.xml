@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761fc518-af03-4a2f-bf52-bc8f9c429bc2" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/CNN学习/AlexNet-Pytorch/Alexnet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN学习/AlexNet-Pytorch/Alexnet.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rag学习/rag-from-scratch-main/rag_from_scratch_1_to_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rag学习/rag-from-scratch-main/rag_from_scratch_1_to_4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/test_20231207084111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/test_20240603163538.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python机器学习_第三版/ch07/ch07.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,25 +58,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/asus/文档/GitHub/MyPythonProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.cut_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/asus/文档/GitHub/MyPythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\code\pythonProject\pythonProject\CNN学习\AlexNet-Pytorch" />
@@ -180,6 +186,17 @@
       <workItem from="1715153199016" duration="609000" />
       <workItem from="1715310029102" duration="706000" />
       <workItem from="1715513864653" duration="53000" />
+      <workItem from="1715689190184" duration="1149000" />
+      <workItem from="1715914570574" duration="4440000" />
+      <workItem from="1716121516263" duration="2126000" />
+      <workItem from="1716163544887" duration="5514000" />
+      <workItem from="1716777946117" duration="2235000" />
+      <workItem from="1716964591726" duration="1782000" />
+      <workItem from="1717661417539" duration="3172000" />
+      <workItem from="1717722325471" duration="6147000" />
+      <workItem from="1717834793402" duration="30000" />
+      <workItem from="1717835009354" duration="2000" />
+      <workItem from="1718457088001" duration="11000" />
     </task>
     <servers />
   </component>
@@ -217,6 +234,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$cut_word.coverage" NAME="cut_word 覆盖结果" MODIFIED="1716163846512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/WechatFiles/WeChat Files/wxid_eaavb0v9t7zg22/FileStorage/File/2024-05/chapter3/chapter3" />
     <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1714401762321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN学习/pytorch猫狗识别" />
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test 覆盖结果" MODIFIED="1709892541394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIStudio学习/2逻辑回归/2020作业1" />
   </component>
