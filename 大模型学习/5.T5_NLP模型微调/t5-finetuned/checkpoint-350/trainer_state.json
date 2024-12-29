@@ -1,0 +1,77 @@
+{
+  "best_metric": 1.5969178676605225,
+  "best_model_checkpoint": "t5-finetuned/checkpoint-350",
+  "epoch": 1.386138613861386,
+  "eval_steps": 50,
+  "global_step": 350,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.19801980198019803,
+      "eval_loss": 2.0035078525543213,
+      "eval_runtime": 49.3272,
+      "eval_samples_per_second": 40.546,
+      "eval_steps_per_second": 10.136,
+      "step": 50
+    },
+    {
+      "epoch": 0.39603960396039606,
+      "eval_loss": 1.6100071668624878,
+      "eval_runtime": 49.219,
+      "eval_samples_per_second": 40.635,
+      "eval_steps_per_second": 10.159,
+      "step": 100
+    },
+    {
+      "epoch": 0.594059405940594,
+      "eval_loss": 1.5971646308898926,
+      "eval_runtime": 49.3465,
+      "eval_samples_per_second": 40.53,
+      "eval_steps_per_second": 10.132,
+      "step": 150
+    },
+    {
+      "epoch": 0.7920792079207921,
+      "eval_loss": 1.5969420671463013,
+      "eval_runtime": 48.9166,
+      "eval_samples_per_second": 40.886,
+      "eval_steps_per_second": 10.221,
+      "step": 200
+    },
+    {
+      "epoch": 0.9900990099009901,
+      "eval_loss": 1.597001314163208,
+      "eval_runtime": 49.2408,
+      "eval_samples_per_second": 40.617,
+      "eval_steps_per_second": 10.154,
+      "step": 250
+    },
+    {
+      "epoch": 1.188118811881188,
+      "eval_loss": 1.5970066785812378,
+      "eval_runtime": 48.9656,
+      "eval_samples_per_second": 40.845,
+      "eval_steps_per_second": 10.211,
+      "step": 300
+    },
+    {
+      "epoch": 1.386138613861386,
+      "eval_loss": 1.5969178676605225,
+      "eval_runtime": 48.614,
+      "eval_samples_per_second": 41.14,
+      "eval_steps_per_second": 10.285,
+      "step": 350
+    }
+  ],
+  "logging_steps": 500,
+  "max_steps": 1260,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 5,
+  "save_steps": 50,
+  "total_flos": 1427166268784640.0,
+  "train_batch_size": 4,
+  "trial_name": null,
+  "trial_params": null
+}
